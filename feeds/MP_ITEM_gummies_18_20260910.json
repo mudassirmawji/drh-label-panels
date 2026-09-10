@@ -1,6 +1,5 @@
 {
  "MPItemFeedHeader": {
-  "sellingChannel": "marketplace",
   "processMode": "REPLACE",
   "subset": "EXTERNAL",
   "locale": "en",
@@ -21,13 +20,7 @@
     "specProductType": "Herbal Supplements",
     "country_of_origin_substantial_transformation": "Pakistan",
     "MustShipAlone": "No",
-    "fulfillmentLagTime": 1,
-    "product_package_dimensions_and_weight": {
-     "product_package_weight": 0.606,
-     "product_package_dimensions_height": 5.51,
-     "product_package_dimensions_width": 4.02,
-     "product_package_dimensions_depth": 4.02
-    }
+    "fulfillmentLagTime": 1
    },
    "Visible": {
     "Herbal Supplements": {
@@ -107,13 +100,7 @@
     "specProductType": "Herbal Supplements",
     "country_of_origin_substantial_transformation": "Pakistan",
     "MustShipAlone": "No",
-    "fulfillmentLagTime": 1,
-    "product_package_dimensions_and_weight": {
-     "product_package_weight": 0.842,
-     "product_package_dimensions_height": 6.97,
-     "product_package_dimensions_width": 4.02,
-     "product_package_dimensions_depth": 4.02
-    }
+    "fulfillmentLagTime": 1
    },
    "Visible": {
     "Herbal Supplements": {
@@ -193,13 +180,7 @@
     "specProductType": "Herbal Supplements",
     "country_of_origin_substantial_transformation": "Pakistan",
     "MustShipAlone": "No",
-    "fulfillmentLagTime": 1,
-    "product_package_dimensions_and_weight": {
-     "product_package_weight": 0.606,
-     "product_package_dimensions_height": 5.51,
-     "product_package_dimensions_width": 4.02,
-     "product_package_dimensions_depth": 4.02
-    }
+    "fulfillmentLagTime": 1
    },
    "Visible": {
     "Herbal Supplements": {
@@ -279,13 +260,7 @@
     "specProductType": "Herbal Supplements",
     "country_of_origin_substantial_transformation": "Pakistan",
     "MustShipAlone": "No",
-    "fulfillmentLagTime": 1,
-    "product_package_dimensions_and_weight": {
-     "product_package_weight": 0.842,
-     "product_package_dimensions_height": 6.97,
-     "product_package_dimensions_width": 4.02,
-     "product_package_dimensions_depth": 4.02
-    }
+    "fulfillmentLagTime": 1
    },
    "Visible": {
     "Herbal Supplements": {
@@ -365,13 +340,7 @@
     "specProductType": "Herbal Supplements",
     "country_of_origin_substantial_transformation": "Pakistan",
     "MustShipAlone": "No",
-    "fulfillmentLagTime": 1,
-    "product_package_dimensions_and_weight": {
-     "product_package_weight": 0.606,
-     "product_package_dimensions_height": 5.51,
-     "product_package_dimensions_width": 4.02,
-     "product_package_dimensions_depth": 4.02
-    }
+    "fulfillmentLagTime": 1
    },
    "Visible": {
     "Herbal Supplements": {
@@ -451,13 +420,7 @@
     "specProductType": "Herbal Supplements",
     "country_of_origin_substantial_transformation": "Pakistan",
     "MustShipAlone": "No",
-    "fulfillmentLagTime": 1,
-    "product_package_dimensions_and_weight": {
-     "product_package_weight": 0.842,
-     "product_package_dimensions_height": 6.97,
-     "product_package_dimensions_width": 4.02,
-     "product_package_dimensions_depth": 4.02
-    }
+    "fulfillmentLagTime": 1
    },
    "Visible": {
     "Herbal Supplements": {
@@ -537,13 +500,7 @@
     "specProductType": "Herbal Supplements",
     "country_of_origin_substantial_transformation": "Pakistan",
     "MustShipAlone": "No",
-    "fulfillmentLagTime": 1,
-    "product_package_dimensions_and_weight": {
-     "product_package_weight": 0.606,
-     "product_package_dimensions_height": 5.51,
-     "product_package_dimensions_width": 4.02,
-     "product_package_dimensions_depth": 4.02
-    }
+    "fulfillmentLagTime": 1
    },
    "Visible": {
     "Herbal Supplements": {
@@ -623,13 +580,7 @@
     "specProductType": "Herbal Supplements",
     "country_of_origin_substantial_transformation": "Pakistan",
     "MustShipAlone": "No",
-    "fulfillmentLagTime": 1,
-    "product_package_dimensions_and_weight": {
-     "product_package_weight": 0.842,
-     "product_package_dimensions_height": 6.97,
-     "product_package_dimensions_width": 4.02,
-     "product_package_dimensions_depth": 4.02
-    }
+    "fulfillmentLagTime": 1
    },
    "Visible": {
     "Herbal Supplements": {
@@ -709,13 +660,7 @@
     "specProductType": "Herbal Supplements",
     "country_of_origin_substantial_transformation": "Pakistan",
     "MustShipAlone": "No",
-    "fulfillmentLagTime": 1,
-    "product_package_dimensions_and_weight": {
-     "product_package_weight": 0.606,
-     "product_package_dimensions_height": 5.51,
-     "product_package_dimensions_width": 4.02,
-     "product_package_dimensions_depth": 4.02
-    }
+    "fulfillmentLagTime": 1
    },
    "Visible": {
     "Herbal Supplements": {
@@ -795,13 +740,7 @@
     "specProductType": "Herbal Supplements",
     "country_of_origin_substantial_transformation": "Pakistan",
     "MustShipAlone": "No",
-    "fulfillmentLagTime": 1,
-    "product_package_dimensions_and_weight": {
-     "product_package_weight": 0.842,
-     "product_package_dimensions_height": 6.97,
-     "product_package_dimensions_width": 4.02,
-     "product_package_dimensions_depth": 4.02
-    }
+    "fulfillmentLagTime": 1
    },
    "Visible": {
     "Herbal Supplements": {
@@ -881,13 +820,7 @@
     "specProductType": "Herbal Supplements",
     "country_of_origin_substantial_transformation": "Pakistan",
     "MustShipAlone": "No",
-    "fulfillmentLagTime": 1,
-    "product_package_dimensions_and_weight": {
-     "product_package_weight": 0.606,
-     "product_package_dimensions_height": 5.51,
-     "product_package_dimensions_width": 4.02,
-     "product_package_dimensions_depth": 4.02
-    }
+    "fulfillmentLagTime": 1
    },
    "Visible": {
     "Herbal Supplements": {
@@ -967,13 +900,7 @@
     "specProductType": "Herbal Supplements",
     "country_of_origin_substantial_transformation": "Pakistan",
     "MustShipAlone": "No",
-    "fulfillmentLagTime": 1,
-    "product_package_dimensions_and_weight": {
-     "product_package_weight": 0.842,
-     "product_package_dimensions_height": 6.97,
-     "product_package_dimensions_width": 4.02,
-     "product_package_dimensions_depth": 4.02
-    }
+    "fulfillmentLagTime": 1
    },
    "Visible": {
     "Herbal Supplements": {
@@ -1053,13 +980,7 @@
     "specProductType": "Herbal Supplements",
     "country_of_origin_substantial_transformation": "Pakistan",
     "MustShipAlone": "No",
-    "fulfillmentLagTime": 1,
-    "product_package_dimensions_and_weight": {
-     "product_package_weight": 0.606,
-     "product_package_dimensions_height": 5.51,
-     "product_package_dimensions_width": 4.02,
-     "product_package_dimensions_depth": 4.02
-    }
+    "fulfillmentLagTime": 1
    },
    "Visible": {
     "Herbal Supplements": {
@@ -1139,13 +1060,7 @@
     "specProductType": "Herbal Supplements",
     "country_of_origin_substantial_transformation": "Pakistan",
     "MustShipAlone": "No",
-    "fulfillmentLagTime": 1,
-    "product_package_dimensions_and_weight": {
-     "product_package_weight": 0.842,
-     "product_package_dimensions_height": 6.97,
-     "product_package_dimensions_width": 4.02,
-     "product_package_dimensions_depth": 4.02
-    }
+    "fulfillmentLagTime": 1
    },
    "Visible": {
     "Herbal Supplements": {
@@ -1225,13 +1140,7 @@
     "specProductType": "Herbal Supplements",
     "country_of_origin_substantial_transformation": "Pakistan",
     "MustShipAlone": "No",
-    "fulfillmentLagTime": 1,
-    "product_package_dimensions_and_weight": {
-     "product_package_weight": 0.606,
-     "product_package_dimensions_height": 5.51,
-     "product_package_dimensions_width": 4.02,
-     "product_package_dimensions_depth": 4.02
-    }
+    "fulfillmentLagTime": 1
    },
    "Visible": {
     "Herbal Supplements": {
@@ -1318,13 +1227,7 @@
     "specProductType": "Herbal Supplements",
     "country_of_origin_substantial_transformation": "Pakistan",
     "MustShipAlone": "No",
-    "fulfillmentLagTime": 1,
-    "product_package_dimensions_and_weight": {
-     "product_package_weight": 0.842,
-     "product_package_dimensions_height": 6.97,
-     "product_package_dimensions_width": 4.02,
-     "product_package_dimensions_depth": 4.02
-    }
+    "fulfillmentLagTime": 1
    },
    "Visible": {
     "Herbal Supplements": {
@@ -1411,13 +1314,7 @@
     "specProductType": "Herbal Supplements",
     "country_of_origin_substantial_transformation": "Pakistan",
     "MustShipAlone": "No",
-    "fulfillmentLagTime": 1,
-    "product_package_dimensions_and_weight": {
-     "product_package_weight": 0.606,
-     "product_package_dimensions_height": 5.51,
-     "product_package_dimensions_width": 4.02,
-     "product_package_dimensions_depth": 4.02
-    }
+    "fulfillmentLagTime": 1
    },
    "Visible": {
     "Herbal Supplements": {
@@ -1504,13 +1401,7 @@
     "specProductType": "Herbal Supplements",
     "country_of_origin_substantial_transformation": "Pakistan",
     "MustShipAlone": "No",
-    "fulfillmentLagTime": 1,
-    "product_package_dimensions_and_weight": {
-     "product_package_weight": 0.842,
-     "product_package_dimensions_height": 6.97,
-     "product_package_dimensions_width": 4.02,
-     "product_package_dimensions_depth": 4.02
-    }
+    "fulfillmentLagTime": 1
    },
    "Visible": {
     "Herbal Supplements": {
