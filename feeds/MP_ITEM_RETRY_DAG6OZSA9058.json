@@ -1,0 +1,92 @@
+{
+ "MPItemFeedHeader": {
+  "processMode": "REPLACE",
+  "subset": "EXTERNAL",
+  "locale": "en",
+  "version": "5.0.20260501-19_21_29",
+  "feedType": "MP_ITEM",
+  "mart": "WALMART_US"
+ },
+ "MPItem": [
+  {
+   "Orderable": {
+    "sku": "DAG6OZSA9058",
+    "productIdentifiers": {
+     "productIdType": "UPC",
+     "productId": "655295229058"
+    },
+    "price": 20.95,
+    "ShippingWeight": 0.66,
+    "specProductType": "Homeopathic & Herbal Remedies",
+    "country_of_origin_substantial_transformation": "Pakistan",
+    "MustShipAlone": "No",
+    "fulfillmentLagTime": 1
+   },
+   "Visible": {
+    "Homeopathic & Herbal Remedies": {
+     "productName": "Dr Herbalist Shilajit + Ashwagandha Gummies, Sugar-Free, Halal, 60 Count",
+     "brand": "Dr Herbalist",
+     "manufacturer": "Hemani International (Pvt) Ltd",
+     "shortDescription": "Shilajit and ashwagandha in one chewable gummy. Dr Herbalist Shilajit + Ashwagandha Gummies pair purified shilajit resin extract, a mineral-rich substance from Himalayan rock that naturally contains fulvic acid, with ashwagandha root extract, Withania somnifera. Both are classic rasayana ingredients in Ayurvedic tradition and are often taken together. The gummy is pre-measured, chewable and naturally flavored. Each gummy is individually wrapped so it stays fresh and travels well. Sugar-free as printed on the label, Halal certified. Take as directed on the label. 60 gummies per jar.",
+     "keyFeatures": [
+      "Purified shilajit resin extract and ashwagandha root extract (Withania somnifera) in one chewable gummy",
+      "Two classic rasayana ingredients from Ayurvedic tradition, often taken together",
+      "Shilajit naturally contains fulvic acid",
+      "Pre-measured and chewable, naturally flavored",
+      "Individually wrapped gummies stay fresh and travel well",
+      "Sugar-free as printed on the label, Halal certified",
+      "60 gummies per jar, net wt. 180 g"
+     ],
+     "mainImageUrl": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/001_900c3273-cf48-4edb-9eb4-3c7d5a205aea.jpg?v=1782170863",
+     "productSecondaryImageURL": [
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/002_b1f7dc2f-8b61-47e8-b707-ec9fdb5582d0.jpg?v=1782170863",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/004_423a231b-3519-4fe1-bb85-bc482f3e6ce2.jpg?v=1782170863",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/005_d5b7ec80-27ae-416a-8ecc-7986be9800c2.jpg?v=1782170863",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/006_6c4232bc-f052-4947-be8e-88df14eb4df9.jpg?v=1782170863",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/007_f76d78ae-9ad7-4e88-a368-90e7484d5901.jpg?v=1782170863"
+     ],
+     "labelImage": [
+      {
+       "labelImageURL": "https://raw.githubusercontent.com/mudassirmawji/drh-label-panels/master/gummies/DAG6OZSA9058_supplement_facts.jpg",
+       "labelImageContains": "Supplement Facts"
+      }
+     ],
+     "netContent": {
+      "productNetContentMeasure": 60,
+      "productNetContentUnit": "Count"
+     },
+     "netContentStatement": "60 Gummies, Net Wt. 180 g",
+     "count": 60,
+     "countPerPack": 60,
+     "multipackQuantity": 1,
+     "size": "60 Count",
+     "ageGroup": [
+      "Adult"
+     ],
+     "gender": "Unisex",
+     "condition": "New",
+     "isProp65WarningRequired": "No",
+     "has_written_warranty": "No",
+     "vitamin_and_supplement_type": [
+      "Herbal Remedies"
+     ],
+     "enteral_medication_form": "Gummies",
+     "flavor": "Naturally Flavored",
+     "food_and_drug_fact_label_type": "Supplement Fact Panel",
+     "nutrientContentClaims": [
+      "Sugar-Free"
+     ],
+     "product_usage_frequency": "Daily",
+     "required_storage_condition": [
+      "Cool & Dry Place Storage"
+     ],
+     "variantGroupId": "DRH-GUM-SHIL_ASHWA",
+     "variantAttributeNames": [
+      "count"
+     ],
+     "isPrimaryVariant": "Yes"
+    }
+   }
+  }
+ ]
+}
