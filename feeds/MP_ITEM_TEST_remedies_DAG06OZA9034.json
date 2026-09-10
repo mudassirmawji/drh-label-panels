@@ -1,0 +1,92 @@
+{
+ "MPItemFeedHeader": {
+  "processMode": "REPLACE",
+  "subset": "EXTERNAL",
+  "locale": "en",
+  "version": "5.0.20260501-19_21_29",
+  "feedType": "MP_ITEM",
+  "mart": "WALMART_US"
+ },
+ "MPItem": [
+  {
+   "Orderable": {
+    "sku": "DAG06OZA9034",
+    "productIdentifiers": {
+     "productIdType": "UPC",
+     "productId": "655295229034"
+    },
+    "price": 20.95,
+    "ShippingWeight": 0.66,
+    "specProductType": "Homeopathic & Herbal Remedies",
+    "country_of_origin_substantial_transformation": "Pakistan",
+    "MustShipAlone": "No",
+    "fulfillmentLagTime": 1
+   },
+   "Visible": {
+    "Homeopathic & Herbal Remedies": {
+     "productName": "Dr Herbalist Ashwagandha Gummies, Sugar-Free, Halal, 60 Count",
+     "brand": "Dr Herbalist",
+     "manufacturer": "Hemani International (Pvt) Ltd",
+     "shortDescription": "Ashwagandha in a chewable gummy. Dr Herbalist Ashwagandha Gummies are made with ashwagandha root extract, Withania somnifera, a plant used in Ayurvedic tradition for generations. The gummy is chewable and naturally flavored, with no pill to swallow. Each gummy is individually wrapped so it stays fresh and travels well. Sugar-free as printed on the label, Halal certified, and made without pork-derived gelatin. Take as directed on the label. 60 gummies per jar.",
+     "keyFeatures": [
+      "Ashwagandha root extract (Withania somnifera) in a naturally flavored chewable gummy",
+      "A plant used in Ayurvedic tradition for generations",
+      "Chewable, no pill to swallow",
+      "Individually wrapped gummies stay fresh and travel well",
+      "Sugar-free as printed on the label",
+      "Halal certified, made without pork-derived gelatin",
+      "60 gummies per jar, net wt. 180 g"
+     ],
+     "mainImageUrl": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/001_9ad93b74-df2e-43e1-a927-46f37851779a.jpg?v=1782170648",
+     "productSecondaryImageURL": [
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/002_eece4f4f-4c74-48b7-9f5c-5c65c6c4f87e.jpg?v=1782170648",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/004_4f54a769-e98d-421f-be5a-79133813a148.jpg?v=1782170648",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/005_1bda0a22-3601-4142-8e8a-3b9f8aa7264e.jpg?v=1782170648",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/006_627bccb5-2acf-496f-8d7b-a29775519481.jpg?v=1782170647",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/007_4e30b511-9fdb-47d6-8f21-e492d0379769.jpg?v=1782170648"
+     ],
+     "labelImage": [
+      {
+       "labelImageURL": "https://raw.githubusercontent.com/mudassirmawji/drh-label-panels/master/gummies/DAG06OZA9034_supplement_facts.jpg",
+       "labelImageContains": "Supplement Facts"
+      }
+     ],
+     "netContent": {
+      "productNetContentMeasure": 60,
+      "productNetContentUnit": "Count"
+     },
+     "netContentStatement": "60 Gummies, Net Wt. 180 g",
+     "count": 60,
+     "countPerPack": 60,
+     "multipackQuantity": 1,
+     "size": "60 Count",
+     "ageGroup": [
+      "Adult"
+     ],
+     "gender": "Unisex",
+     "condition": "New",
+     "isProp65WarningRequired": "No",
+     "has_written_warranty": "No",
+     "vitamin_and_supplement_type": [
+      "Herbal Remedies"
+     ],
+     "enteral_medication_form": "Gummies",
+     "flavor": "Naturally Flavored",
+     "food_and_drug_fact_label_type": "Supplement Fact Panel",
+     "nutrientContentClaims": [
+      "Sugar-Free"
+     ],
+     "product_usage_frequency": "Daily",
+     "required_storage_condition": [
+      "Cool & Dry Place Storage"
+     ],
+     "variantGroupId": "DRH-GUM-ASHWA",
+     "variantAttributeNames": [
+      "count"
+     ],
+     "isPrimaryVariant": "Yes"
+    }
+   }
+  }
+ ]
+}
