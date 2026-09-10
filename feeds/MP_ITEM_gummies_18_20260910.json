@@ -1,0 +1,1589 @@
+{
+ "MPItemFeedHeader": {
+  "sellingChannel": "marketplace",
+  "processMode": "REPLACE",
+  "subset": "EXTERNAL",
+  "locale": "en",
+  "version": "5.0.20260501-19_21_29",
+  "feedType": "MP_ITEM",
+  "mart": "WALMART_US"
+ },
+ "MPItem": [
+  {
+   "Orderable": {
+    "sku": "DAG06OZC8891",
+    "productIdentifiers": {
+     "productIdType": "UPC",
+     "productId": "655295228891"
+    },
+    "price": 20.95,
+    "ShippingWeight": 0.66,
+    "specProductType": "Herbal Supplements",
+    "country_of_origin_substantial_transformation": "Pakistan",
+    "MustShipAlone": "No",
+    "fulfillmentLagTime": 1,
+    "product_package_dimensions_and_weight": {
+     "product_package_weight": 0.606,
+     "product_package_dimensions_height": 5.51,
+     "product_package_dimensions_width": 4.02,
+     "product_package_dimensions_depth": 4.02
+    }
+   },
+   "Visible": {
+    "Herbal Supplements": {
+     "productName": "Dr Herbalist Castor Oil Gummies, Sugar-Free, Halal, 60 Count",
+     "brand": "Dr Herbalist",
+     "manufacturer": "Hemani International (Pvt) Ltd",
+     "shortDescription": "Castor oil in a chewable gummy. Dr Herbalist Castor Oil Gummies deliver castor oil, pressed from the seeds of the castor plant, in a naturally flavored gummy instead of a spoon of thick oil. Each gummy is individually wrapped so it stays fresh and travels well. Sugar-free as printed on the label, Halal certified, and made without pork-derived gelatin. Take as directed on the label. 60 gummies per jar.",
+     "keyFeatures": [
+      "Castor oil (Ricinus communis) in a naturally flavored chewable gummy",
+      "No spoon, no oily taste, no mess",
+      "Individually wrapped gummies stay fresh and travel well",
+      "Sugar-free as printed on the label",
+      "Halal certified, made without pork-derived gelatin",
+      "Take as directed on the label",
+      "60 gummies per jar, net wt. 180 g"
+     ],
+     "mainImageUrl": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/001_fb7cfb69-92c3-45a1-838b-dd8829c5c616.jpg?v=1782170783",
+     "productSecondaryImageURL": [
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/002_efee6f43-c04e-47db-9f22-e459d33f01c4.jpg?v=1782170782",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/004_0627fdbd-976d-4acc-9a2c-10dbc7b7048b.jpg?v=1782170782",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/005_e7f0df98-f3df-4747-b5c4-17031a2b8dab.jpg?v=1782170782",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/006_afe4f4a5-2d90-4154-a056-a3502822532e.jpg?v=1782170782",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/007_e6ee17ed-2a03-4124-b74a-acbcfa7a4bda.jpg?v=1782170782"
+     ],
+     "labelImage": [
+      {
+       "labelImageURL": "https://raw.githubusercontent.com/mudassirmawji/drh-label-panels/master/gummies/DAG06OZC8891_supplement_facts.jpg",
+       "labelImageContains": "Supplement Facts"
+      }
+     ],
+     "netContent": {
+      "productNetContentMeasure": 60,
+      "productNetContentUnit": "Count"
+     },
+     "netContentStatement": "60 Gummies, Net Wt. 180 g",
+     "count": 60,
+     "countPerPack": 60,
+     "multipackQuantity": 1,
+     "size": "60 Count",
+     "ageGroup": [
+      "Adult"
+     ],
+     "gender": "Unisex",
+     "condition": "New",
+     "isProp65WarningRequired": "No",
+     "has_written_warranty": "No",
+     "vitamin_and_supplement_type": [
+      "Herbal Supplements"
+     ],
+     "enteral_medication_form": "Gummies",
+     "flavor": "Naturally Flavored",
+     "food_and_drug_fact_label_type": "Supplement Fact Panel",
+     "nutrientContentClaims": [
+      "Sugar-Free"
+     ],
+     "product_usage_frequency": "Daily",
+     "required_storage_condition": [
+      "Cool & Dry Place Storage"
+     ],
+     "variantGroupId": "DRH-GUM-CASTOR",
+     "variantAttributeNames": [
+      "count"
+     ],
+     "isPrimaryVariant": "Yes"
+    }
+   }
+  },
+  {
+   "Orderable": {
+    "sku": "DAG09OZC9003",
+    "productIdentifiers": {
+     "productIdType": "UPC",
+     "productId": "655295229003"
+    },
+    "price": 26.95,
+    "ShippingWeight": 0.89,
+    "specProductType": "Herbal Supplements",
+    "country_of_origin_substantial_transformation": "Pakistan",
+    "MustShipAlone": "No",
+    "fulfillmentLagTime": 1,
+    "product_package_dimensions_and_weight": {
+     "product_package_weight": 0.842,
+     "product_package_dimensions_height": 6.97,
+     "product_package_dimensions_width": 4.02,
+     "product_package_dimensions_depth": 4.02
+    }
+   },
+   "Visible": {
+    "Herbal Supplements": {
+     "productName": "Dr Herbalist Castor Oil Gummies, Sugar-Free, Halal, 90 Count",
+     "brand": "Dr Herbalist",
+     "manufacturer": "Hemani International (Pvt) Ltd",
+     "shortDescription": "Castor oil in a chewable gummy. Dr Herbalist Castor Oil Gummies deliver castor oil, pressed from the seeds of the castor plant, in a naturally flavored gummy instead of a spoon of thick oil. Each gummy is individually wrapped so it stays fresh and travels well. Sugar-free as printed on the label, Halal certified, and made without pork-derived gelatin. Take as directed on the label. 90 gummies per jar.",
+     "keyFeatures": [
+      "Castor oil (Ricinus communis) in a naturally flavored chewable gummy",
+      "No spoon, no oily taste, no mess",
+      "Individually wrapped gummies stay fresh and travel well",
+      "Sugar-free as printed on the label",
+      "Halal certified, made without pork-derived gelatin",
+      "Take as directed on the label",
+      "90 gummies per jar, net wt. 270 g"
+     ],
+     "mainImageUrl": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/001_47caff64-2e98-4e43-a759-49dc7d7ff781.jpg?v=1782170972",
+     "productSecondaryImageURL": [
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/002_9a3bc3a7-f256-4829-bbf7-5cd619cc777e.jpg?v=1782170972",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/004_8190b89a-32ab-405b-bbfe-ea6ce5f8d155.jpg?v=1782170973",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/005_01b4d16c-945f-462f-a049-a3e384fafc53.jpg?v=1782170972",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/006_5bd78d7b-88f3-4acf-ac76-a4b05d62a375.jpg?v=1782170973",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/007_8a7cd036-015b-4462-91e6-d6be7f4be539.jpg?v=1782170972"
+     ],
+     "labelImage": [
+      {
+       "labelImageURL": "https://raw.githubusercontent.com/mudassirmawji/drh-label-panels/master/gummies/DAG09OZC9003_supplement_facts.jpg",
+       "labelImageContains": "Supplement Facts"
+      }
+     ],
+     "netContent": {
+      "productNetContentMeasure": 90,
+      "productNetContentUnit": "Count"
+     },
+     "netContentStatement": "90 Gummies, Net Wt. 270 g",
+     "count": 90,
+     "countPerPack": 90,
+     "multipackQuantity": 1,
+     "size": "90 Count",
+     "ageGroup": [
+      "Adult"
+     ],
+     "gender": "Unisex",
+     "condition": "New",
+     "isProp65WarningRequired": "No",
+     "has_written_warranty": "No",
+     "vitamin_and_supplement_type": [
+      "Herbal Supplements"
+     ],
+     "enteral_medication_form": "Gummies",
+     "flavor": "Naturally Flavored",
+     "food_and_drug_fact_label_type": "Supplement Fact Panel",
+     "nutrientContentClaims": [
+      "Sugar-Free"
+     ],
+     "product_usage_frequency": "Daily",
+     "required_storage_condition": [
+      "Cool & Dry Place Storage"
+     ],
+     "variantGroupId": "DRH-GUM-CASTOR",
+     "variantAttributeNames": [
+      "count"
+     ],
+     "isPrimaryVariant": "No"
+    }
+   }
+  },
+  {
+   "Orderable": {
+    "sku": "DAG06OZB9065",
+    "productIdentifiers": {
+     "productIdType": "UPC",
+     "productId": "655295229065"
+    },
+    "price": 20.95,
+    "ShippingWeight": 0.66,
+    "specProductType": "Herbal Supplements",
+    "country_of_origin_substantial_transformation": "Pakistan",
+    "MustShipAlone": "No",
+    "fulfillmentLagTime": 1,
+    "product_package_dimensions_and_weight": {
+     "product_package_weight": 0.606,
+     "product_package_dimensions_height": 5.51,
+     "product_package_dimensions_width": 4.02,
+     "product_package_dimensions_depth": 4.02
+    }
+   },
+   "Visible": {
+    "Herbal Supplements": {
+     "productName": "Dr Herbalist Black Seed Oil Gummies, Sugar-Free, Halal, 60 Count",
+     "brand": "Dr Herbalist",
+     "manufacturer": "Hemani International (Pvt) Ltd",
+     "shortDescription": "Black seed oil in a chewable gummy. Dr Herbalist Black Seed Oil Gummies are made with oil from the black seed plant, Nigella sativa, known as kalonji and used in kitchens and daily routines across South Asia, North Africa and the Middle East for generations. Black seed oil naturally contains thymoquinone. The gummy form skips the bitter taste and strong smell of the raw oil. Naturally flavored, sugar-free as printed on the label, Halal certified. Take as directed on the label. 60 gummies per jar.",
+     "keyFeatures": [
+      "Black seed oil (Nigella sativa, kalonji) in a naturally flavored chewable gummy",
+      "A seed used in daily routines across South Asia, North Africa and the Middle East for generations",
+      "Naturally contains thymoquinone",
+      "No bitter taste, no strong smell, no oily mess",
+      "Sugar-free as printed on the label",
+      "Halal certified, made without pork-derived gelatin",
+      "60 gummies per jar, net wt. 180 g"
+     ],
+     "mainImageUrl": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/001_500c82c7-9f6b-48b8-9ffc-d413bf3b051c.jpg?v=1780362052",
+     "productSecondaryImageURL": [
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/002_1df1c417-fbb7-4b60-bb01-e9203e8cd65e.jpg?v=1780362052",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/004_1a561a39-1a1b-4534-a613-1b6e234fed2a.jpg?v=1780362052",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/005_477a76e7-118b-4a12-84aa-ea4fcac0a218.jpg?v=1780362052",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/006_b2972953-be6c-484f-bad1-226bb6d85a5d.jpg?v=1780362052",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/007_ebf708b7-5981-4836-820d-2a70f960e9a9.jpg?v=1780362052"
+     ],
+     "labelImage": [
+      {
+       "labelImageURL": "https://raw.githubusercontent.com/mudassirmawji/drh-label-panels/master/gummies/DAG06OZB9065_supplement_facts.jpg",
+       "labelImageContains": "Supplement Facts"
+      }
+     ],
+     "netContent": {
+      "productNetContentMeasure": 60,
+      "productNetContentUnit": "Count"
+     },
+     "netContentStatement": "60 Gummies, Net Wt. 180 g",
+     "count": 60,
+     "countPerPack": 60,
+     "multipackQuantity": 1,
+     "size": "60 Count",
+     "ageGroup": [
+      "Adult"
+     ],
+     "gender": "Unisex",
+     "condition": "New",
+     "isProp65WarningRequired": "No",
+     "has_written_warranty": "No",
+     "vitamin_and_supplement_type": [
+      "Herbal Supplements"
+     ],
+     "enteral_medication_form": "Gummies",
+     "flavor": "Naturally Flavored",
+     "food_and_drug_fact_label_type": "Supplement Fact Panel",
+     "nutrientContentClaims": [
+      "Sugar-Free"
+     ],
+     "product_usage_frequency": "Daily",
+     "required_storage_condition": [
+      "Cool & Dry Place Storage"
+     ],
+     "variantGroupId": "DRH-GUM-BSO",
+     "variantAttributeNames": [
+      "count"
+     ],
+     "isPrimaryVariant": "Yes"
+    }
+   }
+  },
+  {
+   "Orderable": {
+    "sku": "DAG09OZB9218",
+    "productIdentifiers": {
+     "productIdType": "UPC",
+     "productId": "655295229218"
+    },
+    "price": 26.95,
+    "ShippingWeight": 0.89,
+    "specProductType": "Herbal Supplements",
+    "country_of_origin_substantial_transformation": "Pakistan",
+    "MustShipAlone": "No",
+    "fulfillmentLagTime": 1,
+    "product_package_dimensions_and_weight": {
+     "product_package_weight": 0.842,
+     "product_package_dimensions_height": 6.97,
+     "product_package_dimensions_width": 4.02,
+     "product_package_dimensions_depth": 4.02
+    }
+   },
+   "Visible": {
+    "Herbal Supplements": {
+     "productName": "Dr Herbalist Black Seed Oil Gummies, Sugar-Free, Halal, 90 Count",
+     "brand": "Dr Herbalist",
+     "manufacturer": "Hemani International (Pvt) Ltd",
+     "shortDescription": "Black seed oil in a chewable gummy. Dr Herbalist Black Seed Oil Gummies are made with oil from the black seed plant, Nigella sativa, known as kalonji and used in kitchens and daily routines across South Asia, North Africa and the Middle East for generations. Black seed oil naturally contains thymoquinone. The gummy form skips the bitter taste and strong smell of the raw oil. Naturally flavored, sugar-free as printed on the label, Halal certified. Take as directed on the label. 90 gummies per jar.",
+     "keyFeatures": [
+      "Black seed oil (Nigella sativa, kalonji) in a naturally flavored chewable gummy",
+      "A seed used in daily routines across South Asia, North Africa and the Middle East for generations",
+      "Naturally contains thymoquinone",
+      "No bitter taste, no strong smell, no oily mess",
+      "Sugar-free as printed on the label",
+      "Halal certified, made without pork-derived gelatin",
+      "90 gummies per jar, net wt. 270 g"
+     ],
+     "mainImageUrl": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/001_99bc2b2e-1250-405f-b786-5f3c2ebf0c86.jpg?v=1782170945",
+     "productSecondaryImageURL": [
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/002_a7fb33bb-90fe-4b44-8f37-ed823ec6ff3b.jpg?v=1782170945",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/004_0edacc60-3c18-4b45-ba5e-d488eb6cb9cf.jpg?v=1782170945",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/005_3745f7ec-4280-458b-b15d-33b4417b1fe3.jpg?v=1782170945",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/006_a757b60b-da37-459b-bcb9-cd210a09329e.jpg?v=1782170946",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/007_59e4aaf1-1c62-4251-819e-978e792017f4.jpg?v=1782170946"
+     ],
+     "labelImage": [
+      {
+       "labelImageURL": "https://raw.githubusercontent.com/mudassirmawji/drh-label-panels/master/gummies/DAG09OZB9218_supplement_facts.jpg",
+       "labelImageContains": "Supplement Facts"
+      }
+     ],
+     "netContent": {
+      "productNetContentMeasure": 90,
+      "productNetContentUnit": "Count"
+     },
+     "netContentStatement": "90 Gummies, Net Wt. 270 g",
+     "count": 90,
+     "countPerPack": 90,
+     "multipackQuantity": 1,
+     "size": "90 Count",
+     "ageGroup": [
+      "Adult"
+     ],
+     "gender": "Unisex",
+     "condition": "New",
+     "isProp65WarningRequired": "No",
+     "has_written_warranty": "No",
+     "vitamin_and_supplement_type": [
+      "Herbal Supplements"
+     ],
+     "enteral_medication_form": "Gummies",
+     "flavor": "Naturally Flavored",
+     "food_and_drug_fact_label_type": "Supplement Fact Panel",
+     "nutrientContentClaims": [
+      "Sugar-Free"
+     ],
+     "product_usage_frequency": "Daily",
+     "required_storage_condition": [
+      "Cool & Dry Place Storage"
+     ],
+     "variantGroupId": "DRH-GUM-BSO",
+     "variantAttributeNames": [
+      "count"
+     ],
+     "isPrimaryVariant": "No"
+    }
+   }
+  },
+  {
+   "Orderable": {
+    "sku": "DAG06OZA9034",
+    "productIdentifiers": {
+     "productIdType": "UPC",
+     "productId": "655295229034"
+    },
+    "price": 20.95,
+    "ShippingWeight": 0.66,
+    "specProductType": "Herbal Supplements",
+    "country_of_origin_substantial_transformation": "Pakistan",
+    "MustShipAlone": "No",
+    "fulfillmentLagTime": 1,
+    "product_package_dimensions_and_weight": {
+     "product_package_weight": 0.606,
+     "product_package_dimensions_height": 5.51,
+     "product_package_dimensions_width": 4.02,
+     "product_package_dimensions_depth": 4.02
+    }
+   },
+   "Visible": {
+    "Herbal Supplements": {
+     "productName": "Dr Herbalist Ashwagandha Gummies, Sugar-Free, Halal, 60 Count",
+     "brand": "Dr Herbalist",
+     "manufacturer": "Hemani International (Pvt) Ltd",
+     "shortDescription": "Ashwagandha in a chewable gummy. Dr Herbalist Ashwagandha Gummies are made with ashwagandha root extract, Withania somnifera, a plant used in Ayurvedic tradition for generations. The gummy is chewable and naturally flavored, with no pill to swallow. Each gummy is individually wrapped so it stays fresh and travels well. Sugar-free as printed on the label, Halal certified, and made without pork-derived gelatin. Take as directed on the label. 60 gummies per jar.",
+     "keyFeatures": [
+      "Ashwagandha root extract (Withania somnifera) in a naturally flavored chewable gummy",
+      "A plant used in Ayurvedic tradition for generations",
+      "Chewable, no pill to swallow",
+      "Individually wrapped gummies stay fresh and travel well",
+      "Sugar-free as printed on the label",
+      "Halal certified, made without pork-derived gelatin",
+      "60 gummies per jar, net wt. 180 g"
+     ],
+     "mainImageUrl": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/001_9ad93b74-df2e-43e1-a927-46f37851779a.jpg?v=1782170648",
+     "productSecondaryImageURL": [
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/002_eece4f4f-4c74-48b7-9f5c-5c65c6c4f87e.jpg?v=1782170648",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/004_4f54a769-e98d-421f-be5a-79133813a148.jpg?v=1782170648",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/005_1bda0a22-3601-4142-8e8a-3b9f8aa7264e.jpg?v=1782170648",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/006_627bccb5-2acf-496f-8d7b-a29775519481.jpg?v=1782170647",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/007_4e30b511-9fdb-47d6-8f21-e492d0379769.jpg?v=1782170648"
+     ],
+     "labelImage": [
+      {
+       "labelImageURL": "https://raw.githubusercontent.com/mudassirmawji/drh-label-panels/master/gummies/DAG06OZA9034_supplement_facts.jpg",
+       "labelImageContains": "Supplement Facts"
+      }
+     ],
+     "netContent": {
+      "productNetContentMeasure": 60,
+      "productNetContentUnit": "Count"
+     },
+     "netContentStatement": "60 Gummies, Net Wt. 180 g",
+     "count": 60,
+     "countPerPack": 60,
+     "multipackQuantity": 1,
+     "size": "60 Count",
+     "ageGroup": [
+      "Adult"
+     ],
+     "gender": "Unisex",
+     "condition": "New",
+     "isProp65WarningRequired": "No",
+     "has_written_warranty": "No",
+     "vitamin_and_supplement_type": [
+      "Herbal Supplements"
+     ],
+     "enteral_medication_form": "Gummies",
+     "flavor": "Naturally Flavored",
+     "food_and_drug_fact_label_type": "Supplement Fact Panel",
+     "nutrientContentClaims": [
+      "Sugar-Free"
+     ],
+     "product_usage_frequency": "Daily",
+     "required_storage_condition": [
+      "Cool & Dry Place Storage"
+     ],
+     "variantGroupId": "DRH-GUM-ASHWA",
+     "variantAttributeNames": [
+      "count"
+     ],
+     "isPrimaryVariant": "Yes"
+    }
+   }
+  },
+  {
+   "Orderable": {
+    "sku": "DAG09OZA9041",
+    "productIdentifiers": {
+     "productIdType": "UPC",
+     "productId": "655295229041"
+    },
+    "price": 26.95,
+    "ShippingWeight": 0.89,
+    "specProductType": "Herbal Supplements",
+    "country_of_origin_substantial_transformation": "Pakistan",
+    "MustShipAlone": "No",
+    "fulfillmentLagTime": 1,
+    "product_package_dimensions_and_weight": {
+     "product_package_weight": 0.842,
+     "product_package_dimensions_height": 6.97,
+     "product_package_dimensions_width": 4.02,
+     "product_package_dimensions_depth": 4.02
+    }
+   },
+   "Visible": {
+    "Herbal Supplements": {
+     "productName": "Dr Herbalist Ashwagandha Gummies, Sugar-Free, Halal, 90 Count",
+     "brand": "Dr Herbalist",
+     "manufacturer": "Hemani International (Pvt) Ltd",
+     "shortDescription": "Ashwagandha in a chewable gummy. Dr Herbalist Ashwagandha Gummies are made with ashwagandha root extract, Withania somnifera, a plant used in Ayurvedic tradition for generations. The gummy is chewable and naturally flavored, with no pill to swallow. Each gummy is individually wrapped so it stays fresh and travels well. Sugar-free as printed on the label, Halal certified, and made without pork-derived gelatin. Take as directed on the label. 90 gummies per jar.",
+     "keyFeatures": [
+      "Ashwagandha root extract (Withania somnifera) in a naturally flavored chewable gummy",
+      "A plant used in Ayurvedic tradition for generations",
+      "Chewable, no pill to swallow",
+      "Individually wrapped gummies stay fresh and travel well",
+      "Sugar-free as printed on the label",
+      "Halal certified, made without pork-derived gelatin",
+      "90 gummies per jar, net wt. 270 g"
+     ],
+     "mainImageUrl": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/001_a03192aa-a950-4a55-abfe-3e54670d8475.jpg?v=1782170919",
+     "productSecondaryImageURL": [
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/002_f779e61f-d197-472b-b65c-f6f999aa6483.jpg?v=1782170919",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/004_96bf4397-54bc-4ce6-92b5-206f374081cf.jpg?v=1782170919",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/005_7a7acd7d-f733-48a5-8174-906adc1bee38.jpg?v=1782170919",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/006_7a9da1cf-ec84-40b7-b11e-45b76edde859.jpg?v=1782170919",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/007_de31e723-38fb-4ca3-9bac-ddf3cc06d499.jpg?v=1782170919"
+     ],
+     "labelImage": [
+      {
+       "labelImageURL": "https://raw.githubusercontent.com/mudassirmawji/drh-label-panels/master/gummies/DAG09OZA9041_supplement_facts.jpg",
+       "labelImageContains": "Supplement Facts"
+      }
+     ],
+     "netContent": {
+      "productNetContentMeasure": 90,
+      "productNetContentUnit": "Count"
+     },
+     "netContentStatement": "90 Gummies, Net Wt. 270 g",
+     "count": 90,
+     "countPerPack": 90,
+     "multipackQuantity": 1,
+     "size": "90 Count",
+     "ageGroup": [
+      "Adult"
+     ],
+     "gender": "Unisex",
+     "condition": "New",
+     "isProp65WarningRequired": "No",
+     "has_written_warranty": "No",
+     "vitamin_and_supplement_type": [
+      "Herbal Supplements"
+     ],
+     "enteral_medication_form": "Gummies",
+     "flavor": "Naturally Flavored",
+     "food_and_drug_fact_label_type": "Supplement Fact Panel",
+     "nutrientContentClaims": [
+      "Sugar-Free"
+     ],
+     "product_usage_frequency": "Daily",
+     "required_storage_condition": [
+      "Cool & Dry Place Storage"
+     ],
+     "variantGroupId": "DRH-GUM-ASHWA",
+     "variantAttributeNames": [
+      "count"
+     ],
+     "isPrimaryVariant": "No"
+    }
+   }
+  },
+  {
+   "Orderable": {
+    "sku": "DAG06OZM9010",
+    "productIdentifiers": {
+     "productIdType": "UPC",
+     "productId": "655295229010"
+    },
+    "price": 20.95,
+    "ShippingWeight": 0.66,
+    "specProductType": "Herbal Supplements",
+    "country_of_origin_substantial_transformation": "Pakistan",
+    "MustShipAlone": "No",
+    "fulfillmentLagTime": 1,
+    "product_package_dimensions_and_weight": {
+     "product_package_weight": 0.606,
+     "product_package_dimensions_height": 5.51,
+     "product_package_dimensions_width": 4.02,
+     "product_package_dimensions_depth": 4.02
+    }
+   },
+   "Visible": {
+    "Herbal Supplements": {
+     "productName": "Dr Herbalist Moringa Gummies, Sugar-Free, Halal, 60 Count",
+     "brand": "Dr Herbalist",
+     "manufacturer": "Hemani International (Pvt) Ltd",
+     "shortDescription": "Moringa leaf in a chewable gummy. Dr Herbalist Moringa Gummies are made with moringa leaf, Moringa oleifera, a tree grown across South Asia and Africa whose leaves are used in traditional cooking and daily routines. The gummy skips the strong, grassy taste of moringa powder and the smoothie prep. Each gummy is individually wrapped so it stays fresh and travels well. Naturally flavored, sugar-free as printed on the label, Halal certified. Take as directed on the label. 60 gummies per jar.",
+     "keyFeatures": [
+      "Moringa leaf (Moringa oleifera) in a naturally flavored chewable gummy",
+      "A leaf used in traditional cooking and daily routines across South Asia and Africa",
+      "No grassy powder taste, no smoothie prep",
+      "Individually wrapped gummies stay fresh and travel well",
+      "Sugar-free as printed on the label",
+      "Halal certified, made without pork-derived gelatin",
+      "60 gummies per jar, net wt. 180 g"
+     ],
+     "mainImageUrl": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/001_c21f2485-ced4-4739-b3d1-30457849d4d3.jpg?v=1782170809",
+     "productSecondaryImageURL": [
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/002_925ea9df-cf10-422d-8de6-b79ac3c472fe.jpg?v=1782170808",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/004_77fa1535-9bf3-46bb-937f-e57cbeccf0e3.jpg?v=1782170808",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/005_a2cae304-3a51-4b48-9b3a-1c0acbd877ce.jpg?v=1782170808",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/006_8d8512cc-267c-49ee-82ec-315c987728f2.jpg?v=1782170808",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/007_b16bb642-6e64-4f56-b59d-98124d18d819.jpg?v=1782170808"
+     ],
+     "labelImage": [
+      {
+       "labelImageURL": "https://raw.githubusercontent.com/mudassirmawji/drh-label-panels/master/gummies/DAG06OZM9010_supplement_facts.jpg",
+       "labelImageContains": "Supplement Facts"
+      }
+     ],
+     "netContent": {
+      "productNetContentMeasure": 60,
+      "productNetContentUnit": "Count"
+     },
+     "netContentStatement": "60 Gummies, Net Wt. 180 g",
+     "count": 60,
+     "countPerPack": 60,
+     "multipackQuantity": 1,
+     "size": "60 Count",
+     "ageGroup": [
+      "Adult"
+     ],
+     "gender": "Unisex",
+     "condition": "New",
+     "isProp65WarningRequired": "No",
+     "has_written_warranty": "No",
+     "vitamin_and_supplement_type": [
+      "Herbal Supplements"
+     ],
+     "enteral_medication_form": "Gummies",
+     "flavor": "Naturally Flavored",
+     "food_and_drug_fact_label_type": "Supplement Fact Panel",
+     "nutrientContentClaims": [
+      "Sugar-Free"
+     ],
+     "product_usage_frequency": "Daily",
+     "required_storage_condition": [
+      "Cool & Dry Place Storage"
+     ],
+     "variantGroupId": "DRH-GUM-MORINGA",
+     "variantAttributeNames": [
+      "count"
+     ],
+     "isPrimaryVariant": "Yes"
+    }
+   }
+  },
+  {
+   "Orderable": {
+    "sku": "DAG09OZM9027",
+    "productIdentifiers": {
+     "productIdType": "UPC",
+     "productId": "655295229027"
+    },
+    "price": 26.95,
+    "ShippingWeight": 0.89,
+    "specProductType": "Herbal Supplements",
+    "country_of_origin_substantial_transformation": "Pakistan",
+    "MustShipAlone": "No",
+    "fulfillmentLagTime": 1,
+    "product_package_dimensions_and_weight": {
+     "product_package_weight": 0.842,
+     "product_package_dimensions_height": 6.97,
+     "product_package_dimensions_width": 4.02,
+     "product_package_dimensions_depth": 4.02
+    }
+   },
+   "Visible": {
+    "Herbal Supplements": {
+     "productName": "Dr Herbalist Moringa Gummies, Sugar-Free, Halal, 90 Count",
+     "brand": "Dr Herbalist",
+     "manufacturer": "Hemani International (Pvt) Ltd",
+     "shortDescription": "Moringa leaf in a chewable gummy. Dr Herbalist Moringa Gummies are made with moringa leaf, Moringa oleifera, a tree grown across South Asia and Africa whose leaves are used in traditional cooking and daily routines. The gummy skips the strong, grassy taste of moringa powder and the smoothie prep. Each gummy is individually wrapped so it stays fresh and travels well. Naturally flavored, sugar-free as printed on the label, Halal certified. Take as directed on the label. 90 gummies per jar.",
+     "keyFeatures": [
+      "Moringa leaf (Moringa oleifera) in a naturally flavored chewable gummy",
+      "A leaf used in traditional cooking and daily routines across South Asia and Africa",
+      "No grassy powder taste, no smoothie prep",
+      "Individually wrapped gummies stay fresh and travel well",
+      "Sugar-free as printed on the label",
+      "Halal certified, made without pork-derived gelatin",
+      "90 gummies per jar, net wt. 270 g"
+     ],
+     "mainImageUrl": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/001_942e0556-b7be-444f-8d22-0ad9a36f69af.jpg?v=1782170999",
+     "productSecondaryImageURL": [
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/002_6684e1b3-9475-41d0-a8aa-e58a0320d773.jpg?v=1782170999",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/004_d3e89da2-f96a-41d4-98e7-cad6a40b6d63.jpg?v=1782171000",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/005_b8ed65a0-ab7d-4e9b-955f-e21b195e0592.jpg?v=1782170999",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/006_460d8b4b-4244-4cbf-a5a5-6c1498b2c09d.jpg?v=1782171000",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/007_9c50ad30-a838-45bc-9538-84b07f9ddcbc.jpg?v=1782170999"
+     ],
+     "labelImage": [
+      {
+       "labelImageURL": "https://raw.githubusercontent.com/mudassirmawji/drh-label-panels/master/gummies/DAG09OZM9027_supplement_facts.jpg",
+       "labelImageContains": "Supplement Facts"
+      }
+     ],
+     "netContent": {
+      "productNetContentMeasure": 90,
+      "productNetContentUnit": "Count"
+     },
+     "netContentStatement": "90 Gummies, Net Wt. 270 g",
+     "count": 90,
+     "countPerPack": 90,
+     "multipackQuantity": 1,
+     "size": "90 Count",
+     "ageGroup": [
+      "Adult"
+     ],
+     "gender": "Unisex",
+     "condition": "New",
+     "isProp65WarningRequired": "No",
+     "has_written_warranty": "No",
+     "vitamin_and_supplement_type": [
+      "Herbal Supplements"
+     ],
+     "enteral_medication_form": "Gummies",
+     "flavor": "Naturally Flavored",
+     "food_and_drug_fact_label_type": "Supplement Fact Panel",
+     "nutrientContentClaims": [
+      "Sugar-Free"
+     ],
+     "product_usage_frequency": "Daily",
+     "required_storage_condition": [
+      "Cool & Dry Place Storage"
+     ],
+     "variantGroupId": "DRH-GUM-MORINGA",
+     "variantAttributeNames": [
+      "count"
+     ],
+     "isPrimaryVariant": "No"
+    }
+   }
+  },
+  {
+   "Orderable": {
+    "sku": "DAG06OZS9164",
+    "productIdentifiers": {
+     "productIdType": "UPC",
+     "productId": "655295229164"
+    },
+    "price": 26.95,
+    "ShippingWeight": 0.66,
+    "specProductType": "Herbal Supplements",
+    "country_of_origin_substantial_transformation": "Pakistan",
+    "MustShipAlone": "No",
+    "fulfillmentLagTime": 1,
+    "product_package_dimensions_and_weight": {
+     "product_package_weight": 0.606,
+     "product_package_dimensions_height": 5.51,
+     "product_package_dimensions_width": 4.02,
+     "product_package_dimensions_depth": 4.02
+    }
+   },
+   "Visible": {
+    "Herbal Supplements": {
+     "productName": "Dr Herbalist Shilajit Gummies, Sugar-Free, Halal, 60 Count",
+     "brand": "Dr Herbalist",
+     "manufacturer": "Hemani International (Pvt) Ltd",
+     "shortDescription": "Shilajit in a chewable gummy. Dr Herbalist Shilajit Gummies are made with purified shilajit resin extract, a mineral-rich substance formed over centuries in Himalayan rock and used in Ayurvedic tradition for generations. Shilajit naturally contains fulvic acid. The gummy is pre-measured and chewable, with none of the sticky resin or strong taste. Each gummy is individually wrapped so it stays fresh and travels well. Naturally flavored, sugar-free as printed on the label, Halal certified. Take as directed on the label. 60 gummies per jar.",
+     "keyFeatures": [
+      "Purified shilajit resin extract in a naturally flavored chewable gummy",
+      "Formed over centuries in Himalayan rock, used in Ayurvedic tradition for generations",
+      "Naturally contains fulvic acid",
+      "Pre-measured and chewable, no sticky resin, no strong taste",
+      "Individually wrapped gummies stay fresh and travel well",
+      "Sugar-free as printed on the label, Halal certified",
+      "60 gummies per jar, net wt. 180 g"
+     ],
+     "mainImageUrl": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/001_b8305bc6-56a8-4adc-8716-bb628e51bcf8.jpg?v=1782170834",
+     "productSecondaryImageURL": [
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/002_1fa580ae-b851-41fc-9305-f69eb8d75a7d.jpg?v=1782170834",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/004_e12f6cc4-5dd2-48f2-ae32-276be6777c63.jpg?v=1782170834",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/005_0d8500d9-a247-4b7c-b73c-fb5a1a996162.jpg?v=1782170834",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/006_601bcf91-8ba6-40cb-9906-35efc447bcbc.jpg?v=1782170834",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/007_e7395214-3f30-46b1-b62f-204c58b88927.jpg?v=1782170834"
+     ],
+     "labelImage": [
+      {
+       "labelImageURL": "https://raw.githubusercontent.com/mudassirmawji/drh-label-panels/master/gummies/DAG06OZS9164_supplement_facts.jpg",
+       "labelImageContains": "Supplement Facts"
+      }
+     ],
+     "netContent": {
+      "productNetContentMeasure": 60,
+      "productNetContentUnit": "Count"
+     },
+     "netContentStatement": "60 Gummies, Net Wt. 180 g",
+     "count": 60,
+     "countPerPack": 60,
+     "multipackQuantity": 1,
+     "size": "60 Count",
+     "ageGroup": [
+      "Adult"
+     ],
+     "gender": "Unisex",
+     "condition": "New",
+     "isProp65WarningRequired": "No",
+     "has_written_warranty": "No",
+     "vitamin_and_supplement_type": [
+      "Herbal Supplements"
+     ],
+     "enteral_medication_form": "Gummies",
+     "flavor": "Naturally Flavored",
+     "food_and_drug_fact_label_type": "Supplement Fact Panel",
+     "nutrientContentClaims": [
+      "Sugar-Free"
+     ],
+     "product_usage_frequency": "Daily",
+     "required_storage_condition": [
+      "Cool & Dry Place Storage"
+     ],
+     "variantGroupId": "DRH-GUM-SHILAJIT",
+     "variantAttributeNames": [
+      "count"
+     ],
+     "isPrimaryVariant": "Yes"
+    }
+   }
+  },
+  {
+   "Orderable": {
+    "sku": "DAG09OZS9171",
+    "productIdentifiers": {
+     "productIdType": "UPC",
+     "productId": "655295229171"
+    },
+    "price": 26.95,
+    "ShippingWeight": 0.89,
+    "specProductType": "Herbal Supplements",
+    "country_of_origin_substantial_transformation": "Pakistan",
+    "MustShipAlone": "No",
+    "fulfillmentLagTime": 1,
+    "product_package_dimensions_and_weight": {
+     "product_package_weight": 0.842,
+     "product_package_dimensions_height": 6.97,
+     "product_package_dimensions_width": 4.02,
+     "product_package_dimensions_depth": 4.02
+    }
+   },
+   "Visible": {
+    "Herbal Supplements": {
+     "productName": "Dr Herbalist Shilajit Gummies, Sugar-Free, Halal, 90 Count",
+     "brand": "Dr Herbalist",
+     "manufacturer": "Hemani International (Pvt) Ltd",
+     "shortDescription": "Shilajit in a chewable gummy. Dr Herbalist Shilajit Gummies are made with purified shilajit resin extract, a mineral-rich substance formed over centuries in Himalayan rock and used in Ayurvedic tradition for generations. Shilajit naturally contains fulvic acid. The gummy is pre-measured and chewable, with none of the sticky resin or strong taste. Each gummy is individually wrapped so it stays fresh and travels well. Naturally flavored, sugar-free as printed on the label, Halal certified. Take as directed on the label. 90 gummies per jar.",
+     "keyFeatures": [
+      "Purified shilajit resin extract in a naturally flavored chewable gummy",
+      "Formed over centuries in Himalayan rock, used in Ayurvedic tradition for generations",
+      "Naturally contains fulvic acid",
+      "Pre-measured and chewable, no sticky resin, no strong taste",
+      "Individually wrapped gummies stay fresh and travel well",
+      "Sugar-free as printed on the label, Halal certified",
+      "90 gummies per jar, net wt. 270 g"
+     ],
+     "mainImageUrl": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/001_98ca904f-1e05-4655-8186-76da40515290.jpg?v=1782171026",
+     "productSecondaryImageURL": [
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/002_5a3c161f-f23e-4779-aa67-3a7e3e0a981a.jpg?v=1782171026",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/004_2dacd11f-52b1-4192-9cfc-d4206fca7744.jpg?v=1782171027",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/005_27fc91af-5cdc-4c8d-a481-38b674e2f29f.jpg?v=1782171026",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/006_0fccae83-3c45-4f5a-8fcb-c9c3dce62dcf.jpg?v=1782171027",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/007_8c42b787-795d-45dc-af6d-93282962fe37.jpg?v=1782171026"
+     ],
+     "labelImage": [
+      {
+       "labelImageURL": "https://raw.githubusercontent.com/mudassirmawji/drh-label-panels/master/gummies/DAG09OZS9171_supplement_facts.jpg",
+       "labelImageContains": "Supplement Facts"
+      }
+     ],
+     "netContent": {
+      "productNetContentMeasure": 90,
+      "productNetContentUnit": "Count"
+     },
+     "netContentStatement": "90 Gummies, Net Wt. 270 g",
+     "count": 90,
+     "countPerPack": 90,
+     "multipackQuantity": 1,
+     "size": "90 Count",
+     "ageGroup": [
+      "Adult"
+     ],
+     "gender": "Unisex",
+     "condition": "New",
+     "isProp65WarningRequired": "No",
+     "has_written_warranty": "No",
+     "vitamin_and_supplement_type": [
+      "Herbal Supplements"
+     ],
+     "enteral_medication_form": "Gummies",
+     "flavor": "Naturally Flavored",
+     "food_and_drug_fact_label_type": "Supplement Fact Panel",
+     "nutrientContentClaims": [
+      "Sugar-Free"
+     ],
+     "product_usage_frequency": "Daily",
+     "required_storage_condition": [
+      "Cool & Dry Place Storage"
+     ],
+     "variantGroupId": "DRH-GUM-SHILAJIT",
+     "variantAttributeNames": [
+      "count"
+     ],
+     "isPrimaryVariant": "No"
+    }
+   }
+  },
+  {
+   "Orderable": {
+    "sku": "DAG06OZT9072",
+    "productIdentifiers": {
+     "productIdType": "UPC",
+     "productId": "655295229072"
+    },
+    "price": 20.95,
+    "ShippingWeight": 0.66,
+    "specProductType": "Herbal Supplements",
+    "country_of_origin_substantial_transformation": "Pakistan",
+    "MustShipAlone": "No",
+    "fulfillmentLagTime": 1,
+    "product_package_dimensions_and_weight": {
+     "product_package_weight": 0.606,
+     "product_package_dimensions_height": 5.51,
+     "product_package_dimensions_width": 4.02,
+     "product_package_dimensions_depth": 4.02
+    }
+   },
+   "Visible": {
+    "Herbal Supplements": {
+     "productName": "Dr Herbalist Tongkat Ali Gummies, Sugar-Free, Halal, 60 Count",
+     "brand": "Dr Herbalist",
+     "manufacturer": "Hemani International (Pvt) Ltd",
+     "shortDescription": "Tongkat ali in a chewable gummy. Dr Herbalist Tongkat Ali Gummies are made with tongkat ali root extract, Eurycoma longifolia, a Southeast Asian plant also called longjack and used in traditional routines across Malaysia and Indonesia for generations. The gummy is chewable and naturally flavored, with none of the bitter root taste. Each gummy is individually wrapped so it stays fresh and travels well. Sugar-free as printed on the label, Halal certified, made without pork-derived gelatin. Take as directed on the label. 60 gummies per jar.",
+     "keyFeatures": [
+      "Tongkat ali root extract (Eurycoma longifolia, longjack) in a naturally flavored chewable gummy",
+      "A Southeast Asian plant used in traditional routines for generations",
+      "Chewable, no bitter root taste",
+      "Individually wrapped gummies stay fresh and travel well",
+      "Sugar-free as printed on the label",
+      "Halal certified, made without pork-derived gelatin",
+      "60 gummies per jar, net wt. 180 g"
+     ],
+     "mainImageUrl": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/001_f35ea491-676b-443e-8a00-0e47ece111b8.jpg?v=1782170891",
+     "productSecondaryImageURL": [
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/002_f769e2ca-99e6-4fd0-8bcf-a8087e418f76.jpg?v=1782170891",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/004_5990e478-b933-4190-9314-b69e9a3cb977.jpg?v=1782170892",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/005_fa3d56e7-af30-4e7d-93bf-e3fb5384ba4c.jpg?v=1782170891",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/006_8ea9c71f-6948-4595-95b8-ad6292b89ac2.jpg?v=1782170891",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/007_d1caf703-dc30-4119-88c5-3d00ab581b49.jpg?v=1782170891"
+     ],
+     "labelImage": [
+      {
+       "labelImageURL": "https://raw.githubusercontent.com/mudassirmawji/drh-label-panels/master/gummies/DAG06OZT9072_supplement_facts.jpg",
+       "labelImageContains": "Supplement Facts"
+      }
+     ],
+     "netContent": {
+      "productNetContentMeasure": 60,
+      "productNetContentUnit": "Count"
+     },
+     "netContentStatement": "60 Gummies, Net Wt. 180 g",
+     "count": 60,
+     "countPerPack": 60,
+     "multipackQuantity": 1,
+     "size": "60 Count",
+     "ageGroup": [
+      "Adult"
+     ],
+     "gender": "Unisex",
+     "condition": "New",
+     "isProp65WarningRequired": "No",
+     "has_written_warranty": "No",
+     "vitamin_and_supplement_type": [
+      "Herbal Supplements"
+     ],
+     "enteral_medication_form": "Gummies",
+     "flavor": "Naturally Flavored",
+     "food_and_drug_fact_label_type": "Supplement Fact Panel",
+     "nutrientContentClaims": [
+      "Sugar-Free"
+     ],
+     "product_usage_frequency": "Daily",
+     "required_storage_condition": [
+      "Cool & Dry Place Storage"
+     ],
+     "variantGroupId": "DRH-GUM-TONGKAT",
+     "variantAttributeNames": [
+      "count"
+     ],
+     "isPrimaryVariant": "Yes"
+    }
+   }
+  },
+  {
+   "Orderable": {
+    "sku": "DAG09OZT9201",
+    "productIdentifiers": {
+     "productIdType": "UPC",
+     "productId": "655295229201"
+    },
+    "price": 26.95,
+    "ShippingWeight": 0.89,
+    "specProductType": "Herbal Supplements",
+    "country_of_origin_substantial_transformation": "Pakistan",
+    "MustShipAlone": "No",
+    "fulfillmentLagTime": 1,
+    "product_package_dimensions_and_weight": {
+     "product_package_weight": 0.842,
+     "product_package_dimensions_height": 6.97,
+     "product_package_dimensions_width": 4.02,
+     "product_package_dimensions_depth": 4.02
+    }
+   },
+   "Visible": {
+    "Herbal Supplements": {
+     "productName": "Dr Herbalist Tongkat Ali Gummies, Sugar-Free, Halal, 90 Count",
+     "brand": "Dr Herbalist",
+     "manufacturer": "Hemani International (Pvt) Ltd",
+     "shortDescription": "Tongkat ali in a chewable gummy. Dr Herbalist Tongkat Ali Gummies are made with tongkat ali root extract, Eurycoma longifolia, a Southeast Asian plant also called longjack and used in traditional routines across Malaysia and Indonesia for generations. The gummy is chewable and naturally flavored, with none of the bitter root taste. Each gummy is individually wrapped so it stays fresh and travels well. Sugar-free as printed on the label, Halal certified, made without pork-derived gelatin. Take as directed on the label. 90 gummies per jar.",
+     "keyFeatures": [
+      "Tongkat ali root extract (Eurycoma longifolia, longjack) in a naturally flavored chewable gummy",
+      "A Southeast Asian plant used in traditional routines for generations",
+      "Chewable, no bitter root taste",
+      "Individually wrapped gummies stay fresh and travel well",
+      "Sugar-free as printed on the label",
+      "Halal certified, made without pork-derived gelatin",
+      "90 gummies per jar, net wt. 270 g"
+     ],
+     "mainImageUrl": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/001_44ed75a1-408e-45fc-9dd6-970e00b84e66.jpg?v=1782171084",
+     "productSecondaryImageURL": [
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/002_f695a192-66bd-49c1-b350-7851c43617eb.jpg?v=1782171084",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/004_4b7b5c2f-0382-45c5-b1f5-c2c78937eb28.jpg?v=1782171083",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/005_911e610d-cbee-4fdc-b0dc-a17c9bdfdf7b.jpg?v=1782171084",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/006_b5d12b85-f51c-4aaf-9a6b-f5cd19ab3a96.jpg?v=1782171084",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/007_972ea76d-0998-451a-b2cf-1ec4f1d9f4de.jpg?v=1782171084"
+     ],
+     "labelImage": [
+      {
+       "labelImageURL": "https://raw.githubusercontent.com/mudassirmawji/drh-label-panels/master/gummies/DAG09OZT9201_supplement_facts.jpg",
+       "labelImageContains": "Supplement Facts"
+      }
+     ],
+     "netContent": {
+      "productNetContentMeasure": 90,
+      "productNetContentUnit": "Count"
+     },
+     "netContentStatement": "90 Gummies, Net Wt. 270 g",
+     "count": 90,
+     "countPerPack": 90,
+     "multipackQuantity": 1,
+     "size": "90 Count",
+     "ageGroup": [
+      "Adult"
+     ],
+     "gender": "Unisex",
+     "condition": "New",
+     "isProp65WarningRequired": "No",
+     "has_written_warranty": "No",
+     "vitamin_and_supplement_type": [
+      "Herbal Supplements"
+     ],
+     "enteral_medication_form": "Gummies",
+     "flavor": "Naturally Flavored",
+     "food_and_drug_fact_label_type": "Supplement Fact Panel",
+     "nutrientContentClaims": [
+      "Sugar-Free"
+     ],
+     "product_usage_frequency": "Daily",
+     "required_storage_condition": [
+      "Cool & Dry Place Storage"
+     ],
+     "variantGroupId": "DRH-GUM-TONGKAT",
+     "variantAttributeNames": [
+      "count"
+     ],
+     "isPrimaryVariant": "No"
+    }
+   }
+  },
+  {
+   "Orderable": {
+    "sku": "DAG6OZSA9058",
+    "productIdentifiers": {
+     "productIdType": "UPC",
+     "productId": "655295229058"
+    },
+    "price": 20.95,
+    "ShippingWeight": 0.66,
+    "specProductType": "Herbal Supplements",
+    "country_of_origin_substantial_transformation": "Pakistan",
+    "MustShipAlone": "No",
+    "fulfillmentLagTime": 1,
+    "product_package_dimensions_and_weight": {
+     "product_package_weight": 0.606,
+     "product_package_dimensions_height": 5.51,
+     "product_package_dimensions_width": 4.02,
+     "product_package_dimensions_depth": 4.02
+    }
+   },
+   "Visible": {
+    "Herbal Supplements": {
+     "productName": "Dr Herbalist Shilajit + Ashwagandha Gummies, Sugar-Free, Halal, 60 Count",
+     "brand": "Dr Herbalist",
+     "manufacturer": "Hemani International (Pvt) Ltd",
+     "shortDescription": "Shilajit and ashwagandha in one chewable gummy. Dr Herbalist Shilajit + Ashwagandha Gummies pair purified shilajit resin extract, a mineral-rich substance from Himalayan rock that naturally contains fulvic acid, with ashwagandha root extract, Withania somnifera. Both are classic rasayana ingredients in Ayurvedic tradition and are often taken together. The gummy is pre-measured, chewable and naturally flavored. Each gummy is individually wrapped so it stays fresh and travels well. Sugar-free as printed on the label, Halal certified. Take as directed on the label. 60 gummies per jar.",
+     "keyFeatures": [
+      "Purified shilajit resin extract and ashwagandha root extract (Withania somnifera) in one chewable gummy",
+      "Two classic rasayana ingredients from Ayurvedic tradition, often taken together",
+      "Shilajit naturally contains fulvic acid",
+      "Pre-measured and chewable, naturally flavored",
+      "Individually wrapped gummies stay fresh and travel well",
+      "Sugar-free as printed on the label, Halal certified",
+      "60 gummies per jar, net wt. 180 g"
+     ],
+     "mainImageUrl": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/001_900c3273-cf48-4edb-9eb4-3c7d5a205aea.jpg?v=1782170863",
+     "productSecondaryImageURL": [
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/002_b1f7dc2f-8b61-47e8-b707-ec9fdb5582d0.jpg?v=1782170863",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/004_423a231b-3519-4fe1-bb85-bc482f3e6ce2.jpg?v=1782170863",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/005_d5b7ec80-27ae-416a-8ecc-7986be9800c2.jpg?v=1782170863",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/006_6c4232bc-f052-4947-be8e-88df14eb4df9.jpg?v=1782170863",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/007_f76d78ae-9ad7-4e88-a368-90e7484d5901.jpg?v=1782170863"
+     ],
+     "labelImage": [
+      {
+       "labelImageURL": "https://raw.githubusercontent.com/mudassirmawji/drh-label-panels/master/gummies/DAG6OZSA9058_supplement_facts.jpg",
+       "labelImageContains": "Supplement Facts"
+      }
+     ],
+     "netContent": {
+      "productNetContentMeasure": 60,
+      "productNetContentUnit": "Count"
+     },
+     "netContentStatement": "60 Gummies, Net Wt. 180 g",
+     "count": 60,
+     "countPerPack": 60,
+     "multipackQuantity": 1,
+     "size": "60 Count",
+     "ageGroup": [
+      "Adult"
+     ],
+     "gender": "Unisex",
+     "condition": "New",
+     "isProp65WarningRequired": "No",
+     "has_written_warranty": "No",
+     "vitamin_and_supplement_type": [
+      "Herbal Supplements"
+     ],
+     "enteral_medication_form": "Gummies",
+     "flavor": "Naturally Flavored",
+     "food_and_drug_fact_label_type": "Supplement Fact Panel",
+     "nutrientContentClaims": [
+      "Sugar-Free"
+     ],
+     "product_usage_frequency": "Daily",
+     "required_storage_condition": [
+      "Cool & Dry Place Storage"
+     ],
+     "variantGroupId": "DRH-GUM-SHIL_ASHWA",
+     "variantAttributeNames": [
+      "count"
+     ],
+     "isPrimaryVariant": "Yes"
+    }
+   }
+  },
+  {
+   "Orderable": {
+    "sku": "DAG9OZSA9225",
+    "productIdentifiers": {
+     "productIdType": "UPC",
+     "productId": "655295229225"
+    },
+    "price": 26.95,
+    "ShippingWeight": 0.89,
+    "specProductType": "Herbal Supplements",
+    "country_of_origin_substantial_transformation": "Pakistan",
+    "MustShipAlone": "No",
+    "fulfillmentLagTime": 1,
+    "product_package_dimensions_and_weight": {
+     "product_package_weight": 0.842,
+     "product_package_dimensions_height": 6.97,
+     "product_package_dimensions_width": 4.02,
+     "product_package_dimensions_depth": 4.02
+    }
+   },
+   "Visible": {
+    "Herbal Supplements": {
+     "productName": "Dr Herbalist Shilajit + Ashwagandha Gummies, Sugar-Free, Halal, 90 Count",
+     "brand": "Dr Herbalist",
+     "manufacturer": "Hemani International (Pvt) Ltd",
+     "shortDescription": "Shilajit and ashwagandha in one chewable gummy. Dr Herbalist Shilajit + Ashwagandha Gummies pair purified shilajit resin extract, a mineral-rich substance from Himalayan rock that naturally contains fulvic acid, with ashwagandha root extract, Withania somnifera. Both are classic rasayana ingredients in Ayurvedic tradition and are often taken together. The gummy is pre-measured, chewable and naturally flavored. Each gummy is individually wrapped so it stays fresh and travels well. Sugar-free as printed on the label, Halal certified. Take as directed on the label. 90 gummies per jar.",
+     "keyFeatures": [
+      "Purified shilajit resin extract and ashwagandha root extract (Withania somnifera) in one chewable gummy",
+      "Two classic rasayana ingredients from Ayurvedic tradition, often taken together",
+      "Shilajit naturally contains fulvic acid",
+      "Pre-measured and chewable, naturally flavored",
+      "Individually wrapped gummies stay fresh and travel well",
+      "Sugar-free as printed on the label, Halal certified",
+      "90 gummies per jar, net wt. 270 g"
+     ],
+     "mainImageUrl": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/001_e72dd742-7aa7-42e2-83fa-8c15310e93d5.jpg?v=1782171054",
+     "productSecondaryImageURL": [
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/002_d1119d67-4371-4931-83f1-91bfbd741e38.jpg?v=1782171054",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/004_dbe34b1a-0196-48bd-b22d-5d48abffcc26.jpg?v=1782171054",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/005_96b5f594-d9af-4e57-8d01-35b72dd5590f.jpg?v=1782171055",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/006_eec3ddc7-f2be-4daf-9a5d-45f5ee8fd003.jpg?v=1782171054",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/007_dc3c0201-03b8-4d30-94c6-1c5ba9a15e68.jpg?v=1782171055"
+     ],
+     "labelImage": [
+      {
+       "labelImageURL": "https://raw.githubusercontent.com/mudassirmawji/drh-label-panels/master/gummies/DAG9OZSA9225_supplement_facts.jpg",
+       "labelImageContains": "Supplement Facts"
+      }
+     ],
+     "netContent": {
+      "productNetContentMeasure": 90,
+      "productNetContentUnit": "Count"
+     },
+     "netContentStatement": "90 Gummies, Net Wt. 270 g",
+     "count": 90,
+     "countPerPack": 90,
+     "multipackQuantity": 1,
+     "size": "90 Count",
+     "ageGroup": [
+      "Adult"
+     ],
+     "gender": "Unisex",
+     "condition": "New",
+     "isProp65WarningRequired": "No",
+     "has_written_warranty": "No",
+     "vitamin_and_supplement_type": [
+      "Herbal Supplements"
+     ],
+     "enteral_medication_form": "Gummies",
+     "flavor": "Naturally Flavored",
+     "food_and_drug_fact_label_type": "Supplement Fact Panel",
+     "nutrientContentClaims": [
+      "Sugar-Free"
+     ],
+     "product_usage_frequency": "Daily",
+     "required_storage_condition": [
+      "Cool & Dry Place Storage"
+     ],
+     "variantGroupId": "DRH-GUM-SHIL_ASHWA",
+     "variantAttributeNames": [
+      "count"
+     ],
+     "isPrimaryVariant": "No"
+    }
+   }
+  },
+  {
+   "Orderable": {
+    "sku": "DAG06OZS9102",
+    "productIdentifiers": {
+     "productIdType": "UPC",
+     "productId": "655295229102"
+    },
+    "price": 26.95,
+    "ShippingWeight": 0.66,
+    "specProductType": "Herbal Supplements",
+    "country_of_origin_substantial_transformation": "Pakistan",
+    "MustShipAlone": "No",
+    "fulfillmentLagTime": 1,
+    "product_package_dimensions_and_weight": {
+     "product_package_weight": 0.606,
+     "product_package_dimensions_height": 5.51,
+     "product_package_dimensions_width": 4.02,
+     "product_package_dimensions_depth": 4.02
+    }
+   },
+   "Visible": {
+    "Herbal Supplements": {
+     "productName": "Dr Herbalist Shilajit with Black Seed Gummies, Sugar-Free, Halal, 60 Count",
+     "brand": "Dr Herbalist",
+     "manufacturer": "Hemani International (Pvt) Ltd",
+     "shortDescription": "Shilajit and black seed in one chewable gummy. Dr Herbalist Shilajit with Black Seed Gummies pair purified Himalayan shilajit resin extract, which naturally contains fulvic acid, with black seed, Nigella sativa, the small seed known as kalonji that naturally contains thymoquinone and has been used in daily routines across South Asia, North Africa and the Middle East for generations. A pairing you will not find on every shelf, in a naturally flavored, chewable gummy. Sugar-free, with 0 g total sugar per serving as printed on the Supplement Facts panel. Halal certified, made without pork-derived gelatin. Adults take 2 gummies daily with food, or as directed by a healthcare professional. 60 gummies per jar.",
+     "keyFeatures": [
+      "Purified Himalayan shilajit resin extract and black seed oil (Nigella sativa, kalonji) in one chewable gummy",
+      "Shilajit naturally contains fulvic acid; black seed naturally contains thymoquinone",
+      "Sugar-free: 0 g total sugar per serving as printed on the Supplement Facts panel",
+      "Serving size 2 gummies; 60-count jar holds 30 servings",
+      "Chewable and naturally flavored, no resin, no raw-seed taste",
+      "Halal certified, made without pork-derived gelatin",
+      "60 gummies per jar, net wt. 180 g"
+     ],
+     "mainImageUrl": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/001_fed3afeb-0479-4922-aed6-50496a43231d.jpg?v=1787815176",
+     "productSecondaryImageURL": [
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/002_6d360990-3812-4847-9335-b6ff2ab951a7.jpg?v=1787815176",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/004_f95c7d5d-6a8c-40dc-a8b2-724ca5872059.jpg?v=1787815176",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/005_e2789e93-5572-4806-9cff-066efaaffea7.jpg?v=1787815176",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/006_029c82c2-35db-4977-a5c3-148aadb5cf6d.jpg?v=1787815176",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/007_27208b14-fae4-460f-97e8-c7ec911fdcc8.jpg?v=1787815176",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/FRONT_3fc2c86f-3b4f-4825-8572-7a062440cf34.jpg?v=1787815176",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/SIDE_81dd95a6-97af-4ca5-8f93-2b992ee30a88.jpg?v=1787815176"
+     ],
+     "labelImage": [
+      {
+       "labelImageURL": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/BACK_920d861d-74d8-4fec-9e2d-64946b773718.jpg?v=1787815322",
+       "labelImageContains": "Supplement Facts"
+      }
+     ],
+     "netContent": {
+      "productNetContentMeasure": 60,
+      "productNetContentUnit": "Count"
+     },
+     "netContentStatement": "60 Gummies, Net Wt. 180 g",
+     "count": 60,
+     "countPerPack": 60,
+     "multipackQuantity": 1,
+     "size": "60 Count",
+     "ageGroup": [
+      "Adult"
+     ],
+     "gender": "Unisex",
+     "condition": "New",
+     "isProp65WarningRequired": "No",
+     "has_written_warranty": "No",
+     "vitamin_and_supplement_type": [
+      "Herbal Supplements"
+     ],
+     "enteral_medication_form": "Gummies",
+     "flavor": "Naturally Flavored",
+     "food_and_drug_fact_label_type": "Supplement Fact Panel",
+     "nutrientContentClaims": [
+      "Sugar-Free"
+     ],
+     "product_usage_frequency": "Daily",
+     "required_storage_condition": [
+      "Cool & Dry Place Storage"
+     ],
+     "variantGroupId": "DRH-GUM-SHIL_BS",
+     "variantAttributeNames": [
+      "count"
+     ],
+     "isPrimaryVariant": "Yes",
+     "warningText": "Do not use if pregnant, nursing, or under 18. Do not exceed the recommended serving. Consult a healthcare professional before use if you have a medical condition or are taking medication. Keep out of reach of children. Store in a cool, dry place.",
+     "ingredients": "Shilajit Resin Extract, Black Seed Oil (Nigella Sativa Seed Oil). Other Ingredients: Water, Fructooligosaccharides, Pectin, Citric Acid, Sodium Citrate, Carnauba Wax.",
+     "servingSize": "2 Gummies",
+     "servingsPerContainer": "30",
+     "dosage": "Adults take 2 gummies daily with food, or as directed by a healthcare professional."
+    }
+   }
+  },
+  {
+   "Orderable": {
+    "sku": "DAG09OZS9188",
+    "productIdentifiers": {
+     "productIdType": "UPC",
+     "productId": "655295229188"
+    },
+    "price": 26.95,
+    "ShippingWeight": 0.89,
+    "specProductType": "Herbal Supplements",
+    "country_of_origin_substantial_transformation": "Pakistan",
+    "MustShipAlone": "No",
+    "fulfillmentLagTime": 1,
+    "product_package_dimensions_and_weight": {
+     "product_package_weight": 0.842,
+     "product_package_dimensions_height": 6.97,
+     "product_package_dimensions_width": 4.02,
+     "product_package_dimensions_depth": 4.02
+    }
+   },
+   "Visible": {
+    "Herbal Supplements": {
+     "productName": "Dr Herbalist Shilajit with Black Seed Gummies, Sugar-Free, Halal, 90 Count",
+     "brand": "Dr Herbalist",
+     "manufacturer": "Hemani International (Pvt) Ltd",
+     "shortDescription": "Shilajit and black seed in one chewable gummy. Dr Herbalist Shilajit with Black Seed Gummies pair purified Himalayan shilajit resin extract, which naturally contains fulvic acid, with black seed, Nigella sativa, the small seed known as kalonji that naturally contains thymoquinone and has been used in daily routines across South Asia, North Africa and the Middle East for generations. A pairing you will not find on every shelf, in a naturally flavored, chewable gummy. Sugar-free, with 0 g total sugar per serving as printed on the Supplement Facts panel. Halal certified, made without pork-derived gelatin. Adults take 2 gummies daily with food, or as directed by a healthcare professional. 90 gummies per jar.",
+     "keyFeatures": [
+      "Purified Himalayan shilajit resin extract and black seed oil (Nigella sativa, kalonji) in one chewable gummy",
+      "Shilajit naturally contains fulvic acid; black seed naturally contains thymoquinone",
+      "Sugar-free: 0 g total sugar per serving as printed on the Supplement Facts panel",
+      "Serving size 2 gummies; 90-count jar holds 45 servings",
+      "Chewable and naturally flavored, no resin, no raw-seed taste",
+      "Halal certified, made without pork-derived gelatin",
+      "90 gummies per jar, net wt. 270 g"
+     ],
+     "mainImageUrl": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/001_6c5b4ea4-b7b3-433c-8bf3-b749baef7cd0.jpg?v=1787815770",
+     "productSecondaryImageURL": [
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/002_5ec9bb0e-12bd-4219-a6aa-aee9eb110368.jpg?v=1787815771",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/004_11a39b76-3068-49d0-b6ed-0ac6a7918b15.jpg?v=1787815770",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/005_66fb6da7-0295-4049-8a42-f077c25e2b60.jpg?v=1787815770",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/006_9ce60c37-f275-40c8-b5db-273dcfa1eeca.jpg?v=1787815770",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/007_d02fe9c2-84c4-4df4-8632-1eca726bfc1f.jpg?v=1787815770",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/FRONT_434423b6-4cdf-43fd-b04b-f5b2dd82a098.jpg?v=1787815770",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/SIDE_cfc7fe3f-06f7-4c25-8807-1503d7101876.jpg?v=1787815770"
+     ],
+     "labelImage": [
+      {
+       "labelImageURL": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/BACK_7e419bfa-1dc9-4764-8de1-a5429eefdad8.jpg?v=1787815770",
+       "labelImageContains": "Supplement Facts"
+      }
+     ],
+     "netContent": {
+      "productNetContentMeasure": 90,
+      "productNetContentUnit": "Count"
+     },
+     "netContentStatement": "90 Gummies, Net Wt. 270 g",
+     "count": 90,
+     "countPerPack": 90,
+     "multipackQuantity": 1,
+     "size": "90 Count",
+     "ageGroup": [
+      "Adult"
+     ],
+     "gender": "Unisex",
+     "condition": "New",
+     "isProp65WarningRequired": "No",
+     "has_written_warranty": "No",
+     "vitamin_and_supplement_type": [
+      "Herbal Supplements"
+     ],
+     "enteral_medication_form": "Gummies",
+     "flavor": "Naturally Flavored",
+     "food_and_drug_fact_label_type": "Supplement Fact Panel",
+     "nutrientContentClaims": [
+      "Sugar-Free"
+     ],
+     "product_usage_frequency": "Daily",
+     "required_storage_condition": [
+      "Cool & Dry Place Storage"
+     ],
+     "variantGroupId": "DRH-GUM-SHIL_BS",
+     "variantAttributeNames": [
+      "count"
+     ],
+     "isPrimaryVariant": "No",
+     "warningText": "Do not use if pregnant, nursing, or under 18. Do not exceed the recommended serving. Consult a healthcare professional before use if you have a medical condition or are taking medication. Keep out of reach of children. Store in a cool, dry place.",
+     "ingredients": "Shilajit Resin Extract, Black Seed Oil (Nigella Sativa Seed Oil). Other Ingredients: Water, Fructooligosaccharides, Pectin, Citric Acid, Sodium Citrate, Carnauba Wax.",
+     "servingSize": "2 Gummies",
+     "servingsPerContainer": "45",
+     "dosage": "Adults take 2 gummies daily with food, or as directed by a healthcare professional."
+    }
+   }
+  },
+  {
+   "Orderable": {
+    "sku": "DAG06OZS9089",
+    "productIdentifiers": {
+     "productIdType": "UPC",
+     "productId": "655295229089"
+    },
+    "price": 20.95,
+    "ShippingWeight": 0.66,
+    "specProductType": "Herbal Supplements",
+    "country_of_origin_substantial_transformation": "Pakistan",
+    "MustShipAlone": "No",
+    "fulfillmentLagTime": 1,
+    "product_package_dimensions_and_weight": {
+     "product_package_weight": 0.606,
+     "product_package_dimensions_height": 5.51,
+     "product_package_dimensions_width": 4.02,
+     "product_package_dimensions_depth": 4.02
+    }
+   },
+   "Visible": {
+    "Herbal Supplements": {
+     "productName": "Dr Herbalist Shilajit 4-in-1 Gummies with Tongkat Ali, Ashwagandha, Lion's Mane, Sugar-Free, Halal, 60 Count",
+     "brand": "Dr Herbalist",
+     "manufacturer": "Hemani International (Pvt) Ltd",
+     "shortDescription": "Four botanicals in one sugar-free gummy. Dr Herbalist Shilajit Gummies 4-in-1 combine purified shilajit resin extract, tongkat ali root extract (Eurycoma longifolia), ashwagandha root extract (Withania somnifera) and lion's mane mushroom extract (Hericium erinaceus) in a single chewable, naturally flavored gummy. Sugar-free, with 0 g total sugar per serving as printed on the Supplement Facts panel. Halal certified, made without pork-derived gelatin. Adults take 2 gummies daily with food, or as directed by a healthcare professional. 60 gummies per jar.",
+     "keyFeatures": [
+      "Shilajit resin extract, tongkat ali root extract, ashwagandha root extract and lion's mane extract in one chewable gummy",
+      "Sugar-free: 0 g total sugar per serving as printed on the Supplement Facts panel",
+      "Naturally flavored, no pill to swallow",
+      "Serving size 2 gummies; 60-count jar holds 30 servings",
+      "Halal certified, made without pork-derived gelatin",
+      "Adults take 2 gummies daily with food, or as directed by a healthcare professional",
+      "60 gummies per jar, net wt. 180 g"
+     ],
+     "mainImageUrl": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/001_b753c60b-a43f-4acb-a4ab-c2c3c8301dca.jpg?v=1787816162",
+     "productSecondaryImageURL": [
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/002_5ba9f136-65d5-477a-95ef-8b61569dd9bd.jpg?v=1787816162",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/004_9047d9aa-2937-401f-a59f-e70729623a46.jpg?v=1787816162",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/005_20a565a6-8ef4-4208-92ac-8461bba6ce9d.jpg?v=1787816162",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/006_6a272dab-625f-4ef4-8ce7-7f0358219c70.jpg?v=1787816162",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/007_90fd06fb-9f1b-43d7-abfc-8b3c6b80d100.jpg?v=1787816162",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/FRONT_f65c0c13-741c-4552-bfac-ff00ea0c837c.jpg?v=1787816162",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/SIDE_a8f4b228-623b-432b-aef5-6f6d22524d13.jpg?v=1787816162"
+     ],
+     "labelImage": [
+      {
+       "labelImageURL": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/BACK_e2224a26-ece9-453e-8361-ce2a642594ee.jpg?v=1787816162",
+       "labelImageContains": "Supplement Facts"
+      }
+     ],
+     "netContent": {
+      "productNetContentMeasure": 60,
+      "productNetContentUnit": "Count"
+     },
+     "netContentStatement": "60 Gummies, Net Wt. 180 g",
+     "count": 60,
+     "countPerPack": 60,
+     "multipackQuantity": 1,
+     "size": "60 Count",
+     "ageGroup": [
+      "Adult"
+     ],
+     "gender": "Unisex",
+     "condition": "New",
+     "isProp65WarningRequired": "No",
+     "has_written_warranty": "No",
+     "vitamin_and_supplement_type": [
+      "Herbal Supplements"
+     ],
+     "enteral_medication_form": "Gummies",
+     "flavor": "Naturally Flavored",
+     "food_and_drug_fact_label_type": "Supplement Fact Panel",
+     "nutrientContentClaims": [
+      "Sugar-Free"
+     ],
+     "product_usage_frequency": "Daily",
+     "required_storage_condition": [
+      "Cool & Dry Place Storage"
+     ],
+     "variantGroupId": "DRH-GUM-SHIL_4IN1",
+     "variantAttributeNames": [
+      "count"
+     ],
+     "isPrimaryVariant": "Yes",
+     "warningText": "Do not use if pregnant, nursing, or under 18. Do not exceed the recommended serving. Consult a healthcare professional before use if you have a medical condition or are taking medication. Keep out of reach of children. Store in a cool, dry place.",
+     "ingredients": "Shilajit Resin Extract, Tongkat Ali (Eurycoma longifolia) (Root) Extract, Ashwagandha Root Extract (Withania Somnifera), Tamarind Fruit Extract, Lion's Mane Extract. Other Ingredients: Water, Fructooligosaccharides, Pectin, Citric Acid, Sodium Citrate, Carnauba Wax.",
+     "servingSize": "2 Gummies",
+     "servingsPerContainer": "30",
+     "dosage": "Adults take 2 gummies daily with food, or as directed by a healthcare professional."
+    }
+   }
+  },
+  {
+   "Orderable": {
+    "sku": "DAG09OZS9195",
+    "productIdentifiers": {
+     "productIdType": "UPC",
+     "productId": "655295229195"
+    },
+    "price": 26.95,
+    "ShippingWeight": 0.89,
+    "specProductType": "Herbal Supplements",
+    "country_of_origin_substantial_transformation": "Pakistan",
+    "MustShipAlone": "No",
+    "fulfillmentLagTime": 1,
+    "product_package_dimensions_and_weight": {
+     "product_package_weight": 0.842,
+     "product_package_dimensions_height": 6.97,
+     "product_package_dimensions_width": 4.02,
+     "product_package_dimensions_depth": 4.02
+    }
+   },
+   "Visible": {
+    "Herbal Supplements": {
+     "productName": "Dr Herbalist Shilajit 4-in-1 Gummies with Tongkat Ali, Ashwagandha, Lion's Mane, Sugar-Free, Halal, 90 Count",
+     "brand": "Dr Herbalist",
+     "manufacturer": "Hemani International (Pvt) Ltd",
+     "shortDescription": "Four botanicals in one sugar-free gummy. Dr Herbalist Shilajit Gummies 4-in-1 combine purified shilajit resin extract, tongkat ali root extract (Eurycoma longifolia), ashwagandha root extract (Withania somnifera) and lion's mane mushroom extract (Hericium erinaceus) in a single chewable, naturally flavored gummy. Sugar-free, with 0 g total sugar per serving as printed on the Supplement Facts panel. Halal certified, made without pork-derived gelatin. Adults take 2 gummies daily with food, or as directed by a healthcare professional. 90 gummies per jar.",
+     "keyFeatures": [
+      "Shilajit resin extract, tongkat ali root extract, ashwagandha root extract and lion's mane extract in one chewable gummy",
+      "Sugar-free: 0 g total sugar per serving as printed on the Supplement Facts panel",
+      "Naturally flavored, no pill to swallow",
+      "Serving size 2 gummies; 90-count jar holds 45 servings",
+      "Halal certified, made without pork-derived gelatin",
+      "Adults take 2 gummies daily with food, or as directed by a healthcare professional",
+      "90 gummies per jar, net wt. 270 g"
+     ],
+     "mainImageUrl": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/001_abe3c4e8-1396-4488-961a-bead561d5950.jpg?v=1787816224",
+     "productSecondaryImageURL": [
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/002_89bb46a0-7de4-4194-9ca3-d696b7c3bf9c.jpg?v=1787816224",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/004_ecdc6aa9-b4d4-4c0b-a89d-2da7c2352532.jpg?v=1787816224",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/005_774cd051-d7b8-4545-a457-cc68a11dcf12.jpg?v=1787816224",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/006_1b2a9714-be39-40b1-be6b-12f5d160e39b.jpg?v=1787816224",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/007_2fcbf706-5b6c-4b73-aaea-82f7c1dafe2c.jpg?v=1787816224",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/FRONT_fcb5d786-7a50-4391-a8d4-45674d2037fc.jpg?v=1787816224",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/SIDE_60a1525e-4c33-462c-9b99-fa96626f7e74.jpg?v=1787816225"
+     ],
+     "labelImage": [
+      {
+       "labelImageURL": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/BACK_4c48d201-2ffd-49d6-bc81-bc638e21f97f.jpg?v=1787816224",
+       "labelImageContains": "Supplement Facts"
+      }
+     ],
+     "netContent": {
+      "productNetContentMeasure": 90,
+      "productNetContentUnit": "Count"
+     },
+     "netContentStatement": "90 Gummies, Net Wt. 270 g",
+     "count": 90,
+     "countPerPack": 90,
+     "multipackQuantity": 1,
+     "size": "90 Count",
+     "ageGroup": [
+      "Adult"
+     ],
+     "gender": "Unisex",
+     "condition": "New",
+     "isProp65WarningRequired": "No",
+     "has_written_warranty": "No",
+     "vitamin_and_supplement_type": [
+      "Herbal Supplements"
+     ],
+     "enteral_medication_form": "Gummies",
+     "flavor": "Naturally Flavored",
+     "food_and_drug_fact_label_type": "Supplement Fact Panel",
+     "nutrientContentClaims": [
+      "Sugar-Free"
+     ],
+     "product_usage_frequency": "Daily",
+     "required_storage_condition": [
+      "Cool & Dry Place Storage"
+     ],
+     "variantGroupId": "DRH-GUM-SHIL_4IN1",
+     "variantAttributeNames": [
+      "count"
+     ],
+     "isPrimaryVariant": "No",
+     "warningText": "Do not use if pregnant, nursing, or under 18. Do not exceed the recommended serving. Consult a healthcare professional before use if you have a medical condition or are taking medication. Keep out of reach of children. Store in a cool, dry place.",
+     "ingredients": "Shilajit Resin Extract, Tongkat Ali (Eurycoma longifolia) (Root) Extract, Ashwagandha Root Extract (Withania Somnifera), Tamarind Fruit Extract, Lion's Mane Extract. Other Ingredients: Water, Fructooligosaccharides, Pectin, Citric Acid, Sodium Citrate, Carnauba Wax.",
+     "servingSize": "2 Gummies",
+     "servingsPerContainer": "45",
+     "dosage": "Adults take 2 gummies daily with food, or as directed by a healthcare professional."
+    }
+   }
+  }
+ ]
+}
