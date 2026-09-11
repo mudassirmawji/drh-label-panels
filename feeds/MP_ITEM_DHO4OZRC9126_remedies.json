@@ -1,0 +1,89 @@
+{
+ "MPItemFeedHeader": {
+  "processMode": "REPLACE",
+  "subset": "EXTERNAL",
+  "locale": "en",
+  "version": "5.0.20260501-19_21_29",
+  "feedType": "MP_ITEM",
+  "mart": "WALMART_US"
+ },
+ "MPItem": [
+  {
+   "Orderable": {
+    "sku": "DHO4OZRC9126",
+    "productIdentifiers": {
+     "productIdType": "UPC",
+     "productId": "655295229126"
+    },
+    "price": 15.99,
+    "ShippingWeight": 0.54,
+    "specProductType": "Homeopathic & Herbal Remedies",
+    "country_of_origin_substantial_transformation": "Pakistan",
+    "MustShipAlone": "No",
+    "fulfillmentLagTime": 1
+   },
+   "Visible": {
+    "Homeopathic & Herbal Remedies": {
+     "productName": "Dr. Herbalist Rosemary & Castor Oil Blend 120 mL (4.06 fl oz), Scalp & Hair Oil with Glass Dropper, External Use",
+     "brand": "Dr. Herbalist",
+     "manufacturer": "Hemani International (Pvt) Ltd",
+     "shortDescription": "Dr. Herbalist Rosemary & Castor Oil Blend combines castor seed oil and rosemary leaf oil in one 120 mL (4.06 fl oz) amber glass bottle with a glass dropper for precise application. It is a two-ingredient blend: Ricinus Communis (Castor) Seed Oil and Rosmarinus Officinalis (Rosemary) Leaf Oil, with no preservatives, additives or fillers. For external use as a scalp and hair oil: apply directly to the scalp and massage gently in circular motions, 2 to 3 times a week. Formulated in the USA and made in Pakistan by Hemani, a family herbal house since 1949. Avoid direct contact with eyes. Keep out of reach of children. If pregnant, nursing or under medical care, consult a healthcare professional before use. Discontinue use if irritation occurs. Store in a cool, dry place away from sunlight.",
+     "keyFeatures": [
+      "Two-ingredient blend: Ricinus Communis (Castor) Seed Oil and Rosmarinus Officinalis (Rosemary) Leaf Oil",
+      "120 mL (4.06 fl oz) amber glass bottle with glass dropper for precise, no-spill application",
+      "No preservatives, no additives, no fillers; formulated in the USA, made in Pakistan by Hemani since 1949",
+      "For external use as a scalp and hair oil: apply to the scalp, massage gently, repeat 2 to 3 times a week",
+      "Avoid contact with eyes, keep out of reach of children, store in a cool, dry place away from sunlight"
+     ],
+     "mainImageUrl": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/FRONT_8ce048ce-2d65-4cde-a09d-cc9cdaa81c8b.jpg?v=1782171139",
+     "productSecondaryImageURL": [
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/EBC001_8e40e0ae-d12d-4925-8f30-272c1a94a863.jpg?v=1782171139",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/EBC002_ab830525-c366-49ef-8c88-f311ce6a015e.jpg?v=1782171139",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/EBC003_751ed023-86ba-491a-b484-f8283957af19.jpg?v=1782171139",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/EBC004_f3ffe02e-0e10-4e7d-9964-a81c24f1bcde.jpg?v=1782171139",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/EBC005_4d975ea4-45a9-40c1-9519-f8927ecde6f7.jpg?v=1782171139",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/EBC006_e70faaeb-e16f-47ea-b7d7-913e82ec6348.jpg?v=1782171139",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/EBC007_3e38c718-b882-4cc5-835b-80aa248e9cb8.jpg?v=1782171139",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/EBC008_f4096909-f68e-4862-9d1f-d993cfef0062.jpg?v=1782171139",
+      "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/SIDE_b3ec5943-2c06-4a0b-8223-f31e4d2af415.jpg?v=1782171139"
+     ],
+     "labelImage": [
+      {
+       "labelImageURL": "https://cdn.shopify.com/s/files/1/0734/1385/3254/files/BACK_dd7a956d-47de-4171-8660-caff4ef55d07.jpg?v=1782171139",
+       "labelImageContains": "Ingredient List"
+      }
+     ],
+     "netContent": {
+      "productNetContentMeasure": 120,
+      "productNetContentUnit": "Milliliter"
+     },
+     "netContentStatement": "120 mL (4.06 fl oz)",
+     "count": 1,
+     "countPerPack": 1,
+     "multipackQuantity": 1,
+     "size": "120 mL",
+     "ageGroup": [
+      "Adult"
+     ],
+     "gender": "Unisex",
+     "condition": "New",
+     "isProp65WarningRequired": "No",
+     "has_written_warranty": "No",
+     "vitamin_and_supplement_type": [
+      "Herbal Remedies"
+     ],
+     "food_and_drug_fact_label_type": "No Fact Panel",
+     "ingredients": "Ricinus Communis (Castor) Seed Oil, Rosmarinus Officinalis (Rosemary) Leaf Oil.",
+     "dosage": "For external use only. Apply the Rosemary and Castor Oil directly to your scalp and gently massage in circular motions. Repeat 2 to 3 times a week.",
+     "warningText": "Avoid direct contact with eyes. Keep out of reach of children. If pregnant, nursing, or under medical care, consult a healthcare professional before use. Discontinue use if irritation occurs. Store in a cool, dry place away from sunlight. For external use only.",
+     "required_storage_condition": [
+      "Cool & Dry Place Storage"
+     ],
+     "ingredientPreference": [
+      "Preservative-Free"
+     ]
+    }
+   }
+  }
+ ]
+}
