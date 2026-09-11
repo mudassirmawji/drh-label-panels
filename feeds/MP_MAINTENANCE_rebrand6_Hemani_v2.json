@@ -1,0 +1,94 @@
+{
+ "MPItemFeedHeader": {
+  "feedType": "MP_MAINTENANCE",
+  "version": "5.0.20260501-19_21_29",
+  "locale": "en",
+  "processMode": "MERGE"
+ },
+ "MPItem": [
+  {
+   "Orderable": {
+    "sku": "8964000114063",
+    "productIdentifiers": {
+     "productIdType": "GTIN",
+     "productId": "08964000114063"
+    }
+   },
+   "Visible": {
+    "Aromatherapy & Essential Oils": {
+     "brand": "Hemani"
+    }
+   }
+  },
+  {
+   "Orderable": {
+    "sku": "8964000577479",
+    "productIdentifiers": {
+     "productIdType": "GTIN",
+     "productId": "08964000577479"
+    }
+   },
+   "Visible": {
+    "Aromatherapy & Essential Oils": {
+     "brand": "Hemani"
+    }
+   }
+  },
+  {
+   "Orderable": {
+    "sku": "8964000267097",
+    "productIdentifiers": {
+     "productIdType": "GTIN",
+     "productId": "08964000267097"
+    }
+   },
+   "Visible": {
+    "Massage Oils & Lotions": {
+     "brand": "Hemani"
+    }
+   }
+  },
+  {
+   "Orderable": {
+    "sku": "8964000267080",
+    "productIdentifiers": {
+     "productIdType": "GTIN",
+     "productId": "08964000267080"
+    }
+   },
+   "Visible": {
+    "Massage Oils & Lotions": {
+     "brand": "Hemani"
+    }
+   }
+  },
+  {
+   "Orderable": {
+    "sku": "8964000114254",
+    "productIdentifiers": {
+     "productIdType": "GTIN",
+     "productId": "08964000114254"
+    }
+   },
+   "Visible": {
+    "Aromatherapy & Essential Oils": {
+     "brand": "Hemani"
+    }
+   }
+  },
+  {
+   "Orderable": {
+    "sku": "8964000114018",
+    "productIdentifiers": {
+     "productIdType": "GTIN",
+     "productId": "08964000114018"
+    }
+   },
+   "Visible": {
+    "Aromatherapy & Essential Oils": {
+     "brand": "Hemani"
+    }
+   }
+  }
+ ]
+}
