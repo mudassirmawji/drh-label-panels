@@ -1,0 +1,86 @@
+{
+ "MPItemFeedHeader": {
+  "processMode": "REPLACE",
+  "subset": "EXTERNAL",
+  "locale": "en",
+  "version": "5.0.20260501-19_21_29",
+  "feedType": "MP_ITEM",
+  "mart": "WALMART_US"
+ },
+ "MPItem": [
+  {
+   "Orderable": {
+    "sku": "8964000737859",
+    "productIdentifiers": {
+     "productIdType": "GTIN",
+     "productId": "08964000737859"
+    },
+    "price": 12.99,
+    "ShippingWeight": 0.55,
+    "specProductType": "Homeopathic & Herbal Remedies",
+    "country_of_origin_substantial_transformation": "Pakistan",
+    "MustShipAlone": "No",
+    "fulfillmentLagTime": 1
+   },
+   "Visible": {
+    "Homeopathic & Herbal Remedies": {
+     "productName": "Hemani Shifa Oil 100mL, Natural Herbal Massage Oil Blend, External Use, Halal",
+     "brand": "Hemani",
+     "manufacturer": "Hemani International (Pvt) Ltd",
+     "shortDescription": "Hemani Shifa Oil is a traditional herbal massage oil blend made with olive oil, black seed oil, peppermint oil, Commiphora wightii (guggul) oil, sesame oil, camphor oil and eucalyptus oil. It is a lightweight oil for external use: apply a small amount to the skin and massage gently until absorbed. Made by Hemani, a family herbal house since 1949. Halal certified and alcohol-free. 100 mL (3.38 fl oz) bottle in a printed carton. For external use only. Avoid contact with eyes. Keep out of reach of children. Store in a cool, dry place.",
+     "keyFeatures": [
+      "Traditional herbal massage oil blend: olive, black seed, peppermint, guggul (Commiphora wightii), sesame, camphor and eucalyptus oils",
+      "Lightweight oil for external use, apply a small amount and massage gently until absorbed",
+      "Halal certified and alcohol-free, made by Hemani since 1949",
+      "100 mL (3.38 fl oz) bottle with printed carton",
+      "For external use only, avoid contact with eyes, keep out of reach of children"
+     ],
+     "mainImageUrl": "https://m.media-amazon.com/images/I/71YjOiyqu8L.jpg",
+     "productSecondaryImageURL": [
+      "https://m.media-amazon.com/images/I/61GxjYpYq3L.jpg",
+      "https://m.media-amazon.com/images/I/61ar3G3VqAL.jpg",
+      "https://m.media-amazon.com/images/I/61kREM2LjlL.jpg",
+      "https://m.media-amazon.com/images/I/61UwQWiehPL.jpg",
+      "https://m.media-amazon.com/images/I/61uWID8jC3L.jpg",
+      "https://m.media-amazon.com/images/I/71HZ+o4VhxL.jpg"
+     ],
+     "labelImage": [
+      {
+       "labelImageURL": "https://m.media-amazon.com/images/I/61qjRjgUMFL.jpg",
+       "labelImageContains": "Ingredient List"
+      }
+     ],
+     "netContent": {
+      "productNetContentMeasure": 100,
+      "productNetContentUnit": "Milliliter"
+     },
+     "netContentStatement": "100 mL (3.38 fl oz)",
+     "count": 1,
+     "countPerPack": 1,
+     "multipackQuantity": 1,
+     "size": "100 mL",
+     "ageGroup": [
+      "Adult"
+     ],
+     "gender": "Unisex",
+     "condition": "New",
+     "isProp65WarningRequired": "No",
+     "has_written_warranty": "No",
+     "vitamin_and_supplement_type": [
+      "Herbal Remedies"
+     ],
+     "food_and_drug_fact_label_type": "No Fact Panel",
+     "ingredients": "Olive Oil, Black Seed Oil, Peppermint Oil, Commiphora Wightii Oil, Sesame Oil, Camphor Oil, Eucalyptus Oil.",
+     "dosage": "For external use only. Apply a small amount of oil to the skin and massage gently until fully absorbed.",
+     "warningText": "For external use only. Avoid contact with eyes. Keep out of reach of children. Store in a cool, dry place.",
+     "required_storage_condition": [
+      "Cool & Dry Place Storage"
+     ],
+     "ingredientPreference": [
+      "Alcohol-Free"
+     ]
+    }
+   }
+  }
+ ]
+}
