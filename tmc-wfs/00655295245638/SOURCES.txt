@@ -1,0 +1,13 @@
+Pardesi Gond Katira 260g, GTIN 00655295245638, Walmart TMC. Same set and order as Amazon B0FS89V3QT (Chairman 10-20).
+01 = Amazon MAIN <- B0FS89V3QT_MAIN.jpg
+02 = Amazon FRNT <- FRONT.jpg
+03 = Amazon SIDE <- SIDE.jpg
+04 = Amazon BACK <- BACK.jpg
+05 = Amazon PT01 <- EBC 005_03.jpg
+06 = Amazon PT02 <- EBC 007.jpg
+07 = Amazon PT03 <- B0FS89V3QT_PT03.jpg
+08 = Amazon PT04 <- EBC 008.jpg
+09 = Amazon PT05 <- B0FS89V3QT_PT05.jpg
+10 = Amazon PT06 <- B0FS89V3QT_PT06.jpg
+11 = Amazon PT07 <- EBC 004_03.jpg
+12 = Amazon PT08 <- EBC 009.jpg
